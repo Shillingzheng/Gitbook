@@ -27,7 +27,6 @@
   * [Store, buy and swap](solutions/individual/store-buy-and-swap.md)
   * [Personal freelancers](solutions/individual/personal-freelancers.md)
   * [Content creators (bonus)](solutions/individual/content-creators-bonus.md)
-* [Wallet](solutions/wallet.md)
 
 ## Help
 
