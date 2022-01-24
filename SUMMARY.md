@@ -15,6 +15,14 @@
 * [For Business](mixpays-products/for-business.md)
 * [For Individual](mixpays-products/for-individual.md)
 
+## Solutions
+
+* [Payments](solutions/payments.md)
+* [Donations](solutions/donations.md)
+* [Business](solutions/business.md)
+* [Individual](solutions/individual.md)
+* [Wallet](solutions/wallet.md)
+
 ## Help
 
 * [FAQ](help/faq.md)
