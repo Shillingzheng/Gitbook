@@ -19,8 +19,14 @@
 
 * [Payments](solutions/payments.md)
 * [Donations](solutions/donations.md)
-* [Business](solutions/business.md)
-* [Individual](solutions/individual.md)
+* [Business](solutions/business/README.md)
+  * [Online stores](solutions/business/online-stores.md)
+  * [Offline retailers](solutions/business/offline-retailers.md)
+  * [Payroll](solutions/business/payroll.md)
+* [Individual](solutions/individual/README.md)
+  * [Store, buy and swap](solutions/individual/store-buy-and-swap.md)
+  * [Personal freelancers](solutions/individual/personal-freelancers.md)
+  * [Content creators (bonus)](solutions/individual/content-creators-bonus.md)
 * [Wallet](solutions/wallet.md)
 
 ## Help
