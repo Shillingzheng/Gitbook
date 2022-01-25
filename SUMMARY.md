@@ -21,7 +21,9 @@
 * [Donations](solutions/donations.md)
 * [Payroll](solutions/payroll.md)
 * [POS System](solutions/pos-system.md)
-* [Store, buy and swap](solutions/store-buy-and-swap.md)
+* [Subscriptions](solutions/subscriptions.md)
+* [Sell](solutions/sell.md)
+* [Swap](solutions/swap.md)
 
 ## Help
 
