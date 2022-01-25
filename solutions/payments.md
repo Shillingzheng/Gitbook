@@ -1,5 +1,5 @@
 ---
-description: Web3 payments with ease.
+description: Accept cryptos on your website.
 ---
 
 # Payments
