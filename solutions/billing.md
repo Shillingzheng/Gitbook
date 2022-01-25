@@ -1,5 +1,5 @@
 ---
-description: Accept cryptos from clients via
+description: Accept cryptos from clients via any method like email, sms.
 ---
 
 # Billing
