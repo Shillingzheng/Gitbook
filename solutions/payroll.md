@@ -55,9 +55,9 @@ Payers can set up to pay any cryptos they prefer.
 
 ****
 
-**Lowest fees**
+**Zero fees**
 
-Among our direct competitors.
+Lowest fees among our direct competitors.
 
 &#x20;****&#x20;
 
