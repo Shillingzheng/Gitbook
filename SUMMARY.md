@@ -18,15 +18,15 @@
 ## Solutions
 
 * [Online payment](solutions/payments.md)
+* [Offline payment](solutions/offline-payment.md)
 * [Donations](solutions/donations.md)
-* [Payroll](solutions/payroll.md)
-* [POS System](solutions/pos-system-copy.md)
-* [Subscriptions](solutions/subscriptions.md)
 * [Sell](solutions/sell.md)
 * [Swap](solutions/swap.md)
-* [Offline payment](solutions/offline-payment.md)
+* [Payroll](solutions/payroll.md)
 * [Send](solutions/send.md)
 * [Billing](solutions/billing.md)
+* [POS System](solutions/pos-system-copy.md)
+* [Subscriptions](solutions/subscriptions.md)
 
 ## Help
 
