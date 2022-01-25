@@ -30,4 +30,4 @@ We protect merchants on our platform by maintaining enterprise-level legal and c
 
 #### Currencies & Settlement Details
 
-MixPay supports settlement in 100+ currencies and direct bank deposit in 38 countries. Bitcoin, Bitcoin Cash, Gemini US Dollar, Circle USD Coin, and Paxos Standard USD settlements are supported in 233 countries. Please pick your location to see minimum settlement amounts and deposit timings.
+MixPay supports settlement in major currencies and direct bank deposit in many countries. Bitcoin, Bitcoin Cash, Gemini US Dollar, Circle USD Coin, and Paxos Standard USD settlements are supported in lots of countries. Please pick your location to see minimum settlement amounts and deposit timings.
