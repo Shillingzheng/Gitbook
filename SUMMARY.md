@@ -26,6 +26,7 @@
 * [Swap](solutions/swap.md)
 * [Offline payment](solutions/offline-payment.md)
 * [Send](solutions/send.md)
+* [Billing](solutions/billing.md)
 
 ## Help
 
