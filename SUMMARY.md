@@ -17,7 +17,7 @@
 
 ## Solutions
 
-* [Payments](solutions/payments.md)
+* [Online payment](solutions/online-payment.md)
 * [Donations](solutions/donations.md)
 * [Payroll](solutions/payroll.md)
 * [POS System](solutions/pos-system-copy.md)

@@ -2,13 +2,13 @@
 
 Receive support in crypto currencies
 
-Start receiving donations in crypto currencies within a few minutes.Peer-to-peer. Directly into your cryto wallet.
+Start receiving donations in crypto currencies within a few minutes.Peer-to-peer. Directly into your crypto wallet.
 
 \*No middle man
 
 Payments performed with MixPay are peer to peer. No one but you holds your funds at any time.
 
-\* Accept any token
+\*Accept any token
 
 Accept thousands of different assets as a means of payment. Defi based instant token conversion.
 
@@ -18,7 +18,7 @@ You simply select what you want to receive, the sender selects what he wants to 
 
 **Simply unmatched**
 
-You want to accept donations worldwide, peer-to-peer in a decentralized, censorship- and fraud-resistant way? We are providing innovative, blockchain-based solutions to do so. It's easy to integrate and easy to use. The best part – we don't charge any fees.
+You want to accept donations worldwide, peer-to-peer in a decentralized, censorship- and fraud-resistant way? We are providing innovative, blockchain-based solutions to do so. It's easy to integrate and easy to use. The best part – _**we don't charge any fees.**_
 
 ### **How to get your donation with MixPay**
 
@@ -40,6 +40,6 @@ Donators can make payments at any time.&#x20;
 
 Receive the other party 's payment and complete the transaction
 
-MixPay will automatically update the exchange rate.
+**MixPay will automatically update the exchange rate.**
 
-Payment funds directly into YOUR MixPay wallets.&#x20;
+**Payment funds directly into YOUR MixPay wallets.**&#x20;
