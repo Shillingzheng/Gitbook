@@ -25,7 +25,7 @@
 * [Sell](solutions/sell.md)
 * [Swap](solutions/swap.md)
 * [Offline payment](solutions/offline-payment.md)
-* [Sen d](solutions/sen-d.md)
+* [Send](solutions/send.md)
 
 ## Help
 

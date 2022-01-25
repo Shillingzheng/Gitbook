@@ -1,4 +1,8 @@
-# Sen d
+---
+description: Pay out cryptos to anyone via any method email address, phone number, dns.
+---
+
+# Send
 
 ## Pay out crypto to anyone, anywhere.
 
