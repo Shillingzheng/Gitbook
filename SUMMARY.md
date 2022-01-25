@@ -24,7 +24,7 @@
 * [Subscriptions](solutions/subscriptions.md)
 * [Sell](solutions/sell.md)
 * [Swap](solutions/swap.md)
-* [Untitled](solutions/untitled.md)
+* [Offline payment](solutions/offline-payment.md)
 
 ## Help
 
