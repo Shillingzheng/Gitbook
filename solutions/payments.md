@@ -26,7 +26,7 @@ Our transaction fees are the lowest in the business, free to pay for high-qualit
 
 We respect our users’ privacy, provide safe transactions, and comply with  all AML regulations.
 
-Download Mixin and share your receiving QR code/link, see _**detailed guide**_
+Download Mixin and share your receiving QR code/link, see [_**detailed guide**_](../getting-started/guide.md)_****_
 
 Your customer chooses to pay with crypto--Customer pays in a selected currency--You receive crypto as a payment
 
