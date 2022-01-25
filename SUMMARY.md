@@ -17,13 +17,14 @@
 
 ## Solutions
 
-* [Online payment](solutions/online-payment.md)
+* [Online payment](solutions/payments.md)
 * [Donations](solutions/donations.md)
 * [Payroll](solutions/payroll.md)
 * [POS System](solutions/pos-system-copy.md)
 * [Subscriptions](solutions/subscriptions.md)
 * [Sell](solutions/sell.md)
 * [Swap](solutions/swap.md)
+* [Untitled](solutions/untitled.md)
 
 ## Help
 
