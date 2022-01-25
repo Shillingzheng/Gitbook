@@ -22,7 +22,7 @@ Send crypto payments worldwide in 3 easy steps:
 
 3\) Add funds to your account.
 
-check **detailed** guide!
+check **** [**detailed**](../getting-started/guide.md) guide!
 
 ### Fast, global payments
 
@@ -40,7 +40,7 @@ Make payroll payments
 
 Pay contractors or affiliates
 
-#### Satisfy customer cashout requests
+#### Satisfy customer cash out requests
 
 #### Issue rewards or rebates
 
