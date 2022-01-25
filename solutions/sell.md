@@ -1,5 +1,5 @@
 ---
-description: S.
+description: Sell cryptos to fiats.
 ---
 
 # Sell
