@@ -20,8 +20,8 @@
 * [Payments](solutions/payments.md)
 * [Donations](solutions/donations.md)
 * [Payroll](solutions/payroll.md)
-* [POS System](solutions/pos-system.md)
-* [Subscriptions copy](solutions/subscriptions-copy.md)
+* [POS System](solutions/pos-system-copy.md)
+* [Subscriptions](solutions/subscriptions.md)
 * [Sell](solutions/sell.md)
 * [Swap](solutions/swap.md)
 
