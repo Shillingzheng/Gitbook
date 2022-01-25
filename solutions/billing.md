@@ -1,3 +1,7 @@
+---
+description: Accept cryptos from clients via
+---
+
 # Billing
 
 ## Receive crypto payments with email billing
