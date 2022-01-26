@@ -22,6 +22,8 @@ With Subscriptions, customers make recurring payments for access to a product. S
 * MixPay generates Invoices when it’s time to bill a customer for a subscription. Invoices have line items and the total amount owed by a customer.&#x20;
 * Payment Intents represent the state of all attempts to pay an invoice.
 
+![Lark20220126-145827.png](https://s2.loli.net/2022/01/26/yb6wTrOXB3cF2sQ.png)
+
 #### _Subscription integration_
 
 **Landing page**&#x20;
