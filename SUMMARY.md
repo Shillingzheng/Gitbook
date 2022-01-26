@@ -23,11 +23,11 @@
 * [Sell](solutions/sell.md)
 * [Swap](solutions/swap.md)
 * [Payroll](solutions/payroll.md)
-* [Send](solutions/send.md)
 * [Billing](solutions/billing.md)
+* [Payment Service Integrator](solutions/payment-service-integrator.md)
+* [Send](solutions/send.md)
 * [POS System](solutions/pos-system-copy.md)
 * [Subscriptions](solutions/subscriptions.md)
-* [Payment Service Integrator](solutions/payment-service-integrator.md)
 * [DAO](solutions/dao.md)
 * [Secured Transactions](solutions/secured-transactions.md)
 
