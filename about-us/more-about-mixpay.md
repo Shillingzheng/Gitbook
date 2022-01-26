@@ -2,7 +2,7 @@
 
 ## What is Mixpay?
 
-_MixPay_ is a crypto payment service provider headquartered in Dubai, founded in Nov, 2021 by Thorb. _MixPay_ makes it easy to spend, accept and store cryptos.
+_MixPay_ is a crypto payment service provider founded in Nov, 2021 by Thorb. _MixPay_ makes it easy to spend, accept and store cryptos.
 
 **It is a payment gateway that offers merchants the availability to accept funds using cryptos.**
 
