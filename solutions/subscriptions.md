@@ -1,36 +1,53 @@
 ---
 description: >-
-  Subscription payments that never stop, make sure customers sign up with ease,
-  and get their regular fix without any interruptions.
+  Customers can be your memberships or subscribe your products automatically
+  with MixPay. Learn how subscriptions work within MixPay.
 ---
 
-# Subscriptions copy
+# Subscriptions
 
-**Made for every subscription business**
+With Subscriptions, customers make recurring payments for access to a product. Subscriptions require you to retain more information about your customers than one-time purchases do because you need to automatically charge them in the future.
 
-Use payment technology that’s built for any recurring business model**:**
+**How subscriptions work:**
 
-1. **Streaming services:** Ensure a non-stop service.
-2. **Subscription boxes:** Create an endless flow of goods for your customers without interruptions.
-3. **Memberships:** Turn every free trial into a lifetime membership.
-4. **Pay as you go:** Make it hassle-free for users to unlock extra features.
+_**Subscription objects**_&#x20;
 
+Use the following core API objects to build and manage subscriptions:
 
+Customers are your buyers. The Customer object stores information like names, email addresses, and payment methods (what kind of crypto to pay).&#x20;
 
-**Steps to get started with our service**
+Products are what you sell. Prices represent how much and how often you charge for a product. You can define multiple prices for a product so you can charge different amounts based on currency or interval (daily, monthly, quarterly, yearly, or other customized intervals).&#x20;
 
-**1.Speak to our team**
+Subscriptions represent your Customers’ access to a product and require you to create a customer and payment method. The status of a subscription indicates when to provision access to your service for a customer.&#x20;
 
-Get in touch with sales to identify the best set-up for your business and receive a custom proposal.
+MixPay generates Invoices when it’s time to bill a customer for a subscription. Invoices have line items and the total amount owed by a customer.&#x20;
 
-**2. Test account**
+Payment Intents represent the state of all attempts to pay an invoice.
 
-We will help you set up a test account to let you explore our platform functionalities and make your first test payment.
+_**Integration**_&#x20;
 
-**3. Sign & onboard**
+**Landing page**&#x20;
 
-Our commercial and onboarding teams will guide you through your account set-up.
+On the frontend, the landing page collects the email address first. Your application might have other customer-specific information you want to collect like a username or address. Clicking the signup button sends the information collected on the landing page to the backend. This process creates a customer and displays the pricing page on the frontend.
 
-**4. Configure & Optimize**
+**Pricing page**&#x20;
 
-Configure your account settings and go live and start processing payments with MixPay.
+The pricing page displays the different subscription options based on the products and prices you create when you first set up your integration (you don’t need to create new ones every time customers sign up). Your pricing page displays the prices you created, and your customers choose the option they want. In the Pasha example, when a customer selects an option, it displays a payment form.
+
+**Payment**&#x20;
+
+The payment form collects a name and other information. MixPay hosts this form if you use Checkout-it’s one of the key features that allows you to collect payments and remain PCI compliant. Clicking Subscribe:
+
+Creates a new subscription, with the customer and price IDs.&#x20;
+
+Generates an invoice for the initial subscription cycle.&#x20;
+
+Collects payment details and pays the invoice.&#x20;
+
+Sets the payment method as the default payment method for the subscription, which is a requirement for subsequent payments.&#x20;
+
+**Provisioning**&#x20;
+
+A confirmation page displays after a successful payment. At this point it’s safe to provision the product for the customer. This generally means:
+
+Verifying the status of the subscription is active. Granting the customer access to the products and features they subscribed to.
