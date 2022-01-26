@@ -53,7 +53,7 @@ Payers can set up to pay any cryptos they prefer.
 
 **We send the funds to the payees right away.**
 
-****
+![Lark2022.jpg](https://s2.loli.net/2022/01/26/DkiUn6A7rM13YwB.jpg)
 
 **Zero fees**
 
