@@ -27,6 +27,9 @@
 * [Billing](solutions/billing.md)
 * [POS System](solutions/pos-system-copy.md)
 * [Subscriptions](solutions/subscriptions.md)
+* [Page 1](solutions/page-1.md)
+* [Page 2](solutions/page-2.md)
+* [Page 3](solutions/page-3.md)
 
 ## Help
 
