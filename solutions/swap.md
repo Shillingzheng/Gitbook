@@ -17,8 +17,9 @@ description: Best price, decentralized, integratable any-to-any token conversion
     Download the Mixin Messenger App from the Google Play Store or the Apple App Store. Then, sign into your Mixin account via the App ( You only need to do this once when setting up the App).
 
     ![p3.jpg](https://s2.loli.net/2022/01/13/xmLGh3f47lyHC6e.jpg)
-*   **Add MixSwap bot**
 
-    Search bot ID (7000103767) in Mixin, add bot. Open bot, then you can swap between cryptos.
+****
 
-![Lark9.png](https://s2.loli.net/2022/01/25/9yOGBCS2tzPFJs8.png)
+* **Swap Cryptos**
+
+​![](https://s2.loli.net/2022/01/26/FtXWAuPnMZUNghx.png)
