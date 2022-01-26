@@ -41,6 +41,6 @@ The payment form collects a name and other information. MixPay hosts this form i
 
 **Provisioning**&#x20;
 
-A confirmation page displays after a successful payment. At this point it’s safe to provision the product for the customer. This generally means:
+A confirmation page displays after a successful payment. At this point it’s safe to provision the product for the customer. **This generally means**:
 
-Verifying the status of the subscription is active. Granting the customer access to the products and features they subscribed to.
+_Verifying the status of the subscription is active. Granting the customer access to the products and features they subscribed to._
