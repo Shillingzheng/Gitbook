@@ -4,6 +4,8 @@ description: Enhance in-person transactions with crypto payments.
 
 # POS System
 
+Soooooon!
+
 **Tutorial: Point of Sale Interface**
 
 The POS interface is designed to be a simple way to accept in-person payments. Here is the preferred way to use the interface:\

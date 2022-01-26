@@ -6,6 +6,8 @@ description: >-
 
 # Subscriptions
 
+Soooooon!
+
 With Subscriptions, customers make recurring payments for access to a product. Subscriptions require you to retain more information about your customers than one-time purchases do because you need to automatically charge them in the future.
 
 ### How subscriptions work:

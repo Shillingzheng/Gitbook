@@ -28,7 +28,7 @@
 * [POS System](solutions/pos-system-copy.md)
 * [Subscriptions](solutions/subscriptions.md)
 * [Payment Service Integrator](solutions/payment-service-integrator.md)
-* [Page 2](solutions/page-2.md)
+* [DAO](solutions/dao.md)
 * [Page 3](solutions/page-3.md)
 
 ## Help
