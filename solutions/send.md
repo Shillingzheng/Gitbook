@@ -4,6 +4,8 @@ description: Pay out cryptos to anyone via any method email address, phone numbe
 
 # Send
 
+#### Soooooon!
+
 ## Pay out crypto to anyone, anywhere.
 
 Start sending payments in hours; not days or weeks.
