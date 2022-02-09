@@ -46,7 +46,29 @@ Go to: **"MixPay bot-Receive-Receive Settings,"** select which coins/fiats you w
 
 **1.** **Shopping cart plugins**
 
-Our prebuilt plugins for all the major ecommerce platforms will get your store set up with MixPay in minutes. Download the appropriate plugin, edit settings to complete the integration.
+Our prebuilt plugins for all the major ecommerce platforms will get your store set up with MixPay in minutes. Download the appropriate plugin, edit settings to complete the integration.Example for Shopify:
+
+![Lark20220209-114625.png](https://s2.loli.net/2022/02/09/KQeHrSpdiA8FnRU.png)
+
+**Requirements**
+
+1. Sign up for your Mixin Messenger account
+2. Configure you store settings: specify your wallet address and generate an API key
+3. Go to your Shopify store
+
+**Installation Process**
+
+1. Go to your Shopify “Apps”, click “Manage Apps” and “Create a Private App”
+2. Enter the App name and the developer's email
+3. In “Admin API permissions”, give a “Read and Write” permission to Orders and click “Save”
+4. Click “Create” and Copy the Example URL from the Admin API section.
+5. Go to your Mixin Messenger Account > Account Settings > Shopify and and paste the Example URL from Shopify.
+6. Click “Connect to Shopify”
+7. Copy the “Additional script
+8. Go to your Shopify Settings > Checkout > Order processing > Additional Scripts and paste the script (including the opening and closing tag script ). Click “Save”
+9. Go to Shopify Settings > Payment Providers > Manual Payment Methods. Add a Custom payment method called “Pay in crypto with MixPay” and Activate it“
+
+
 
 **2.** **Payment buttons**
 
