@@ -68,7 +68,15 @@ Our prebuilt plugins for all the major ecommerce platforms will get your store s
 8. Go to your Shopify Settings > Checkout > Order processing > Additional Scripts and paste the script (including the opening and closing tag script ). Click “Save”
 9. Go to Shopify Settings > Payment Providers > Manual Payment Methods. Add a Custom payment method called “Pay in crypto with MixPay” and Activate it“
 
+_**Benefits of the Shopify Plugin**_&#x20;
 
+The benefits of cryptocurrency payments include: global reach, low fees, privacy and security. MixPay is a decentralized payment service, which means we don’t hold your funds, but transfer them directly to your wallet. Our Shopify payment gateway provides the following benefits:
+
+Global-Accept payment from anywhere in the world. Fast-near instant transactions in less than 1s Secure - All assets are stored in PoS-BFT-DAG distributed network. Free - No transaction fee via Mixin Messenger APP. Powerful - Support 40 public chains, 100+cryptocurrencies and growing. Flexible-Set up to receive any cryptos/fiats you prefer. Reach a wider customer base Easy installation of the Shopify payment processing Keep up with the technological advancements No third parties, MixPay is a decentralized payment service
+
+_**Shopify & Cryptocurrencies**_&#x20;
+
+Shopify is an ecommerce platform where business-owners can sell their products or services. The number of Shopify merchants is over 1,000,000 businesses in 175 different countries. Shopify offers online business-owners a vast array of services including payments, marketing, shipping and others. There are various Shopify plugins that help optimize an e-commerce store by adding new features to your site, which can increase the conversion rate and provide a seamless customer experience. One of such plugins is our Shopify payment gateway. This adds a new checkout option for your Shopify store that allows you to start accepting crypto payments. Your customers will be able to easily use your services as they would need to just enter their wallet info for completing the transaction. Crypto payments are secure, fast, and private. Tech-savvy customers love crypto payments, and it shows how your store is technologically advanced! The only thing you need is a MixPay account, a wallet, and an API key to use for Shopify. Then, you only need to follow the installation process to start accepting crypto payments! It’s time to consider cryptocurrencies as a valuable asset that can replace fiat currencies.
 
 **2.** **Payment buttons**
 
