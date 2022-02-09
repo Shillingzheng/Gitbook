@@ -4,54 +4,64 @@ description: Accept cryptos on your website.
 
 # Online payment
 
-Teaming up with MixPay is an easy and safe way to accept instant crypto payments in your business-be it a big e-commerce marketplace or a tiny indie store.
+**Cryptocurrency payments for E-commerce easily**
 
-* **Online Stores**
+MixPay offers a variety of ways to accept crypto payments from your customers. Regardless of what crypto customers pay with, merchants can choose to accept the coins they prefer - MixPay converts them automatically.
 
-[E-commerce](payment-service-integrator.md) merchants can easily connect MixPay to their stores by integrating plugins in just a few clicks.
+MixPay also supports fiat conversion and provides merchants with a variety of tools: API, invoices, donation widget, buttons, as well as plugins for Shopify, Magento 2 and others.
 
-Customers will receive payment information. They can pay by "Scan QR code" or "Click on the Payment Link" . After confirming the payment, the merchant receives the notice and ships.
+MixPay is a decentralized payment gateway, which means that all your payments will be instantly transferred to your own wallet that only you can have access to.
 
-* **Personal freelancers**
+MixPay support all crypto wallets.,40 public chains, 100+cryptocurrencies like Bitcoin, Litecoin, Ethereum, and growing.
 
-Freelancers can request payments by sharing receiving code/link, and customers can make payments at any time.MixPay will automatically update the exchange rate.
+MixPay is a perfect payment gateway that offers merchants the availability to accept funds using cryptos.Our flexible payment solution lets you decide which digital assets to pay/recieve with.
 
-* **Content creators (bonus)**
+To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment gateway, which lets you receive any cryptocurrencies as payment at your store.
 
-Content creators accept cryptocurrency donations in a more private manner.They can get a better collection experience by using the MixPay app .
+**Step1: Account Setup**
 
-\- 0 rates, free withdrawal
+**1. Sign up**
 
-\- No third-party hosting, payment funds directly into their MixPay wallets
+Creat your [Mixin Messenger](https://mixin.one/messenger) account.
 
-\- Protect privacy without reused addresses
+![020901.png](https://s2.loli.net/2022/02/09/wZlivk74XQuKVeb.png)
 
-* **Developer**
+**2. Add MixPay bot**
 
-Developers can create collection payments for free using MixPay’s services, depending on their business needs.
+Search bot ID (7000104220) in Mixin, add bot.
 
-_**Why crypto is better than fiat for you/your company**_
+![020902.png](https://s2.loli.net/2022/02/09/6yG9c8xId5qAzH3.png)
 
-**Instant payments**
+**3. Receive Settings**
 
-MixPay facilitates swift money transfer-you get your money right away.
+Here, you can modify which coins/fiats you want to accept as payment.
 
-**No chargebacks**
+Go to: **"MixPay bot-Receive-Receive Settings,"** select which coins/fiats you want to accept as payment by setting up receiving currency.If you want to recieve fiats, please contact our customer service.
 
-Payments can not be charged back: transferred funds are guaranteed to stay on your account.
+&#x20;
 
-**Super low fees**
+![020903.png](https://s2.loli.net/2022/02/09/wCbEd7yKPUMg4Zv.png)
 
-Our transaction fees are the lowest in the business, **free** to pay for high-quality service.
+**Step2: Integrate MixPay to your website**
 
-**Privacy\&security**
+1\. **Shopping cart plugins**
 
-We respect our users’ privacy, provide safe transactions, and comply with  all AML regulations.
+Our prebuilt plugins for all the major ecommerce platforms will get your store set up with MixPay in minutes. Download the appropriate plugin, edit settings to complete the integration.
 
-Download Mixin and share your receiving QR code/link, see [_**detailed guide**_](../getting-started/guide.md)_****_
+2\. **Payment buttons**
 
-Your customer chooses to pay with crypto--Customer pays in a selected currency--You receive crypto as a payment
+Our variety of payment buttons can be implemented quickly and seamlessly to provide crypto payment functionality on your site.By button settings, you can make simple payment button.
 
-MixPay also serves the ability to withdraw to fiat.
+**Step3:Pay with crypto**
 
-_**Best payment systems for the best business!**_
+Your customers can choose the “Pay with Cryptocurrency” option to complete the payment, using Bitcoin, Ethereum and many more.They can scan in a QR code or send the funds by payment link.
+
+**Step4: Payment completed**
+
+Funds are deposited into your MixPay account.Notifications are sent to both you and your customer to confirm the payment is completed.
+
+
+
+Get started accepting crypto payments by following along in our Step-by-Step Guide with native integration into your platform or a neat widget: Fee-free, custody-free, worry-free!
+
+Contact us at **public@mixpay.me**
