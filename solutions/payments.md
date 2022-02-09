@@ -12,7 +12,7 @@ MixPay also supports fiat conversion and provides merchants with a variety of to
 
 MixPay is a decentralized payment gateway, which means that all your payments will be instantly transferred to your own wallet that only you can have access to.
 
-MixPay support all crypto wallets.,40 public chains, 100+cryptocurrencies like Bitcoin, Litecoin, Ethereum, and growing.
+MixPay supports all crypto wallets.,40 public chains, 100+cryptocurrencies like Bitcoin, Litecoin, Ethereum, and growing.
 
 MixPay is a perfect payment gateway that offers merchants the availability to accept funds using cryptos.Our flexible payment solution lets you decide which digital assets to pay/recieve with.
 
@@ -36,7 +36,7 @@ Search bot ID (7000104220) in Mixin, add bot.
 
 Here, you can modify which coins/fiats you want to accept as payment.
 
-Go to: **"MixPay bot-Receive-Receive Settings,"** select which coins/fiats you want to accept as payment by setting up receiving currency.If you want to recieve fiats, please contact our customer service.
+Go to: **"MixPay bot-Receive-Receive Settings,"** select which coins/fiats you want to accept as payment by setting up receiving currency.If you want to recieve fiats, please contact our customer service（Mixin ID 40125551).
 
 &#x20;
 
@@ -52,27 +52,27 @@ Our prebuilt plugins for all the major ecommerce platforms will get your store s
 
 **Requirements**
 
-1. Sign up for your Mixin Messenger account
-2. Configure you store settings: specify your wallet address and generate an API key
-3. Go to your Shopify store
+1. Sign up for your Mixin Messenger account.
+2. Configure you store settings: specify your wallet address and generate an API key.
+3. Go to your Shopify store.
 
 **Installation Process**
 
-1. Go to your Shopify “Apps”, click “Manage Apps” and “Create a Private App”
-2. Enter the App name and the developer's email
-3. In “Admin API permissions”, give a “Read and Write” permission to Orders and click “Save”
+1. Go to your Shopify “Apps”, click “Manage Apps” and “Create a Private App”.
+2. Enter the App name and the developer's email.
+3. In “Admin API permissions”, give a “Read and Write” permission to Orders and click “Save”.
 4. Click “Create” and Copy the Example URL from the Admin API section.
 5. Go to your Mixin Messenger Account > Account Settings > Shopify and and paste the Example URL from Shopify.
-6. Click “Connect to Shopify”
-7. Copy the “Additional script
-8. Go to your Shopify Settings > Checkout > Order processing > Additional Scripts and paste the script (including the opening and closing tag script ). Click “Save”
-9. Go to Shopify Settings > Payment Providers > Manual Payment Methods. Add a Custom payment method called “Pay in crypto with MixPay” and Activate it“
+6. Click “Connect to Shopify”.
+7. Copy the “Additional script".
+8. Go to your Shopify Settings > Checkout > Order processing > Additional Scripts and paste the script (including the opening and closing tag script ). Click “Save”.
+9. Go to Shopify Settings > Payment Providers > Manual Payment Methods. Add a Custom payment method called “Pay in crypto with MixPay” and Activate it“.
 
 _**Benefits of the Shopify Plugin**_&#x20;
 
 The benefits of cryptocurrency payments include: global reach, low fees, privacy and security. MixPay is a decentralized payment service, which means we don’t hold your funds, but transfer them directly to your wallet. Our Shopify payment gateway provides the following benefits:
 
-Global-Accept payment from anywhere in the world. Fast-near instant transactions in less than 1s Secure - All assets are stored in PoS-BFT-DAG distributed network. Free - No transaction fee via Mixin Messenger APP. Powerful - Support 40 public chains, 100+cryptocurrencies and growing. Flexible-Set up to receive any cryptos/fiats you prefer. Reach a wider customer base Easy installation of the Shopify payment processing Keep up with the technological advancements No third parties, MixPay is a decentralized payment service
+Global-Accept payment from anywhere in the world. Fast-near instant transactions in less than 1s Secure - All assets are stored in PoS-BFT-DAG distributed network. Free - No transaction fee via Mixin Messenger APP. Powerful - Support 40 public chains, 100+cryptocurrencies and growing. Flexible-Set up to receive any cryptos/fiats you prefer. Reach a wider customer base Easy installation of the Shopify payment processing Keep up with the technological advancements No third parties, MixPay is a decentralized payment service.
 
 _**Shopify & Cryptocurrencies**_&#x20;
 
