@@ -52,7 +52,7 @@ Our prebuilt plugins for all the major ecommerce platforms will get your store s
 
 Our variety of payment buttons can be implemented quickly and seamlessly to provide crypto payment functionality on your site.By button settings, you can make simple payment button.
 
-**Step3:Pay with crypto**
+**Step3: Pay with crypto**
 
 Your customers can choose the “Pay with Cryptocurrency” option to complete the payment, using Bitcoin, Ethereum and many more.They can scan in a QR code or send the funds by payment link.
 
