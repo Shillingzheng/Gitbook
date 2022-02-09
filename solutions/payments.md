@@ -44,11 +44,11 @@ Go to: **"MixPay bot-Receive-Receive Settings,"** select which coins/fiats you w
 
 **Step2: Integrate MixPay to your website**
 
-1\. **Shopping cart plugins**
+**1.** **Shopping cart plugins**
 
 Our prebuilt plugins for all the major ecommerce platforms will get your store set up with MixPay in minutes. Download the appropriate plugin, edit settings to complete the integration.
 
-2\. **Payment buttons**
+**2.** **Payment buttons**
 
 Our variety of payment buttons can be implemented quickly and seamlessly to provide crypto payment functionality on your site.By button settings, you can make simple payment button.
 
