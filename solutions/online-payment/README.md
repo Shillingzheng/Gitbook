@@ -10,7 +10,7 @@ MixPay offers a variety of ways to accept crypto payments from your customers. R
 
 MixPay also supports fiat conversion and provides merchants with a variety of tools: API, invoices, donation widget, buttons, as well as plugins for Shopify, Magento 2 and others.
 
-MixPay is a decentralized payment gateway, which means that all your payments will be instantly transferred to your own wallet that only you can have access to.
+MixPay is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) payment gateway, which means that all your payments will be instantly transferred to your own wallet that only you can have access to.
 
 MixPay supports all crypto wallets.,40 public chains, 100+cryptocurrencies like Bitcoin, Litecoin, Ethereum, and growing.
 
