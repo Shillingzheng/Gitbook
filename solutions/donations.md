@@ -25,7 +25,7 @@ The donation link is a link you can place to accept crypto donations. Put it on 
 * Flexible-set up to receive any crypto donations/fiats you prefer.
 * Reach a wider donors base.&#x20;
 * Easy installation with a simple donation link .
-*   No third parties, [MixPay](../about-us/more-about-mixpay.md) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) payment service Automated Exchange for FIAT Donation Tracking on the Blockchain Custody (Hold Crypto).
+*   No third parties, [MixPay](../about-us/more-about-mixpay.md) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) payment service with automated exchange for fiat.&#x20;
 
     ****
 
