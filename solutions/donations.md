@@ -6,7 +6,13 @@ MixPay is the #1 crypto donation solution, which provides the best payment gatew
 
 Nonprofits may feel hesitant and intimidated by the "complicated" technical integration. Luckily, MixPay makes accepting and making crypto donations easy, fast, and safe for nonprofits, charities, universities, faith-based organizations with a simple donation link.&#x20;
 
-The donation link is a link you can place to accept crypto donations. Put it on your social media and anyone will be able to donate .After visitors click the cryptocurrency donation link, a page will appear where they can confirm the crypto donation.
+Well, MixPay is also very helpful for bloggers who want to figure out HOW they are going to accept crypto donations.It’s more important to have a way to get the donations. All they need to do is just to place the donation link on their page. After the visitors click the link, a page will appear where they can confirm the donation. See the guide attached below:
+
+![donation 1.png](https://s2.loli.net/2022/02/10/t3PnNMzJI4Dxswg.png)
+
+![donation2.png](https://s2.loli.net/2022/02/10/wcMdiR7OEn2ZzA6.png)
+
+The donation link is a link you can place to accept crypto donations. Put it on your social media and anyone will be able to donate .
 
 MixPay’s automated donation acceptance and exchange process provides full transparency into every crypto-donation and every donor who gives. MixPay is a perfect crypto payment for charitable donations.
 
@@ -30,7 +36,7 @@ Sign up and get ready for the easiest and cheapest way to accept cryptocurrency 
 
 #### 1. Sign up
 
-Creat your Mixin Messenger account.
+Creat your [Mixin Messenger](https://mixin.one/messenger) account.
 
 ![aaaaa.png](https://s2.loli.net/2022/02/10/odX85zb4s7QOugc.png)
 
