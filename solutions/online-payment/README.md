@@ -32,16 +32,6 @@ Search bot ID (7000104220) in Mixin, add bot.
 
 ![020902.png](https://s2.loli.net/2022/02/09/6yG9c8xId5qAzH3.png)
 
-**3. Receive Settings**
-
-Here, you can modify which coins/fiats you want to accept as payment.
-
-Go to: **"MixPay bot-Receive-Receive Settings,"** select which coins/fiats you want to accept as payment by setting up receiving currency.If you want to recieve fiats, please contact our customer service（Mixin ID 40125551).
-
-&#x20;
-
-![020903.png](https://s2.loli.net/2022/02/09/wCbEd7yKPUMg4Zv.png)
-
 **Step2: Integrate MixPay to your website**
 
 **1.** **Shopping cart plugins**

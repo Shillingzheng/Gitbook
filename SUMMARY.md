@@ -17,7 +17,8 @@
 
 ## Solutions
 
-* [Online payment](solutions/payments.md)
+* [Online payment](solutions/online-payment/README.md)
+  * [Example for Shopify](solutions/online-payment/example-for-shopify.md)
 * [Offline payment](solutions/offline-payment.md)
 * [Donations](solutions/donations.md)
 * [Sell](solutions/sell.md)
