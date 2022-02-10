@@ -1,6 +1,6 @@
 # Shopify& Cryptocurrencies
 
-Shopify is an ecommerce platform where business-owners can sell their products or services. The number of Shopify merchants is over 1,000,000 businesses in 175 different countries.&#x20;
+Shopify is an ecommerce platform where business-owners can sell their products or services. The number of Shopify merchants is over [1,000,000 businesses](https://acquireconvert.com/shopify-statistics/#:\~:text=Shopify%20number%20of%20merchants%20now,different%20countries%20\(Source%3A%20Shopify\)) in 175 different countries.&#x20;
 
 Shopify offers online business-owners a vast array of services including payments, marketing, shipping and others.&#x20;
 
