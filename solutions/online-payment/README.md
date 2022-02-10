@@ -4,9 +4,9 @@ description: Accept cryptos on your website.
 
 # Online payment
 
-**Cryptocurrency payments for E-commerce easily**
+**Cryptocurrency payments for** [**E-commerce**](https://en.wikipedia.org/wiki/E-commerce) **easily**
 
-MixPay offers a variety of ways to accept crypto payments from your customers. Regardless of what crypto customers pay with, merchants can choose to accept the coins they prefer - MixPay converts them automatically.
+MixPay offers a variety of ways to accept crypto payments from your customers. Regardless of what crypto customers pay with, merchants can choose to accept the coins they prefer - MixPay(链上官网） converts them automatically.
 
 MixPay also supports fiat conversion and provides merchants with a variety of tools: API, invoices, donation widget, buttons, as well as plugins for Shopify, Magento 2 and others.
 

@@ -1,6 +1,10 @@
 # Example for Shopify
 
+**Requirements**
 
+1. Sign up for your [Mixin Messenger](https://mixin.one/messenger) account.
+2. Configure you store settings: specify your wallet address and generate an API key.
+3. Go to your [Shopify store](https://accounts.shopify.com/select?rid=249e7256-1b29-40b6-a73b-7deb2e687532).
 
 **Installation Process**
 
@@ -23,7 +27,7 @@ Our Shopify payment gateway provides the following benefits:
 * Global-Accept payment from anywhere in the world.&#x20;
 * Fast-near instant transactions in less than 1s.&#x20;
 * Secure - All assets are stored in PoS-BFT-DAG distributed network.&#x20;
-* Free - No transaction fee via Mixin Messenger APP.&#x20;
+* Free - No transaction fee via [Mixin Messenger](https://mixin.one/messenger) APP.&#x20;
 * Powerful - Support 40 public chains, 100+cryptocurrencies and growing.&#x20;
 * Flexible-Set up to receive any cryptos/fiats you prefer.&#x20;
 * Reach a wider customer base.&#x20;
