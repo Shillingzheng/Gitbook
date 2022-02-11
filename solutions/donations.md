@@ -69,6 +69,6 @@ Copy the link and place it anywhere you like!
 
 ![a.png](https://s2.loli.net/2022/02/10/pA2k6BdDg5STFRq.png)
 
-Get started accepting crypto donation with MixPay!
+Get started accepting crypto donation with MixPay（官网链接）!
 
 Contact us at **public@mixpay.me**
