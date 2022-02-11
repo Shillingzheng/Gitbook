@@ -21,7 +21,7 @@ Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bl
 * Fast-near instant transactions in less than 1s.
 * Secure - all assets are stored in PoS-BFT-DAG distributed [network](https://mixin.one/snapshots).&#x20;
 * Free - no transaction fee via [Mixin Messenger APP](https://mixin.one/messenger).
-* Powerful - support 40 public chains, 100+cryptocurrencies（官网币页面链接） and growing.
+* Powerful - support 40 public chains, 100+cryptocurrencies（website link） and growing.
 * Flexible-set up to receive any crypto donations/fiats you prefer.
 * Reach a [wider donors base](https://app.gitbook.com/s/DEi4HKufWDwkRvDViUEi/\~/changes/JARmAnbwCPiR9bwdyf1G/solutions/donations/why-donate-with-crypto).&#x20;
 * Easy installation with a simple [donation link](https://mixpay.me/thorb) .
@@ -67,6 +67,6 @@ Copy the link and place it anywhere you like!
 
 ![a.png](https://s2.loli.net/2022/02/10/pA2k6BdDg5STFRq.png)
 
-Get started accepting crypto donation with MixPay（官网链接）!
+Get started accepting crypto donation with MixPay（website  link）!
 
 Contact us at **public@mixpay.me**
