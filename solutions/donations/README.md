@@ -6,7 +6,7 @@ You want to accept donations worldwide, peer-to-peer in a [decentralized](https:
 
 Nonprofits may feel hesitant and intimidated by the "complicated" technical integration. Luckily, [MixPay](../../about-us/more-about-mixpay.md) makes accepting and making crypto donations easy, fast, and safe for nonprofits, charities, universities, faith-based organizations with a simple [donation link](https://mixpay.me/thorb).&#x20;
 
-Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bloggers](https://www.blogtyrant.com/what-does-a-blogger-do/) who want to figure out how they are going to accept crypto donations.It’s more important to have a way to get the donations. All they need to do is just to place the donation link on their page. After the visitors click the link, a page will appear where they can confirm the donation. See the guide attached below:
+Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bloggers](https://www.blogtyrant.com/what-does-a-blogger-do/) who want to figure out how they are going to accept crypto donations.It’s more important to have a way to get the donations. All they need to do is just to place the donation link on their page. After the visitors click the link, a page will appear where they can confirm the donation.
 
 ![donation 1.png](https://s2.loli.net/2022/02/10/t3PnNMzJI4Dxswg.png)
 
