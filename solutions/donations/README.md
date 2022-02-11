@@ -29,11 +29,9 @@ Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bl
 
     ****
 
-**How to accept crypto currency as a nonprofit?**
+**How to Receive Crypto Donations Online?**
 
-For nonprofit’s looking to make a huge commitment to crypto donations there are ways to create a legal account associated with the organization.
-
-[MixPay](../../about-us/more-about-mixpay.md) provides payment gateway that allows nonprofits to accept crypto donations.&#x20;
+[MixPay](../../about-us/more-about-mixpay.md) provides a payment gateway that allows both nonprofits and bloggers to accept crypto donations.
 
 Sign up and get ready for the easiest and cheapest way to accept cryptocurrency donations.
 
