@@ -6,13 +6,13 @@ You want to accept donations worldwide, peer-to-peer in a [decentralized](https:
 
 Nonprofits may feel hesitant and intimidated by the "complicated" technical integration. Luckily, [MixPay](../../about-us/more-about-mixpay.md) makes accepting and making crypto donations easy, fast, and safe for nonprofits, charities, universities, faith-based organizations with a simple [donation link](https://mixpay.me/thorb).&#x20;
 
+The donation link is a link you can place to accept crypto donations. Put it on your social media and anyone will be able to donate .
+
 Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bloggers](https://www.blogtyrant.com/what-does-a-blogger-do/) who want to figure out how they are going to accept crypto donations.It’s more important to have a way to get the donations. All they need to do is just to place the donation link on their page. After the visitors click the link, a page will appear where they can confirm the donation.
 
 ![donation 1.png](https://s2.loli.net/2022/02/10/t3PnNMzJI4Dxswg.png)
 
 ![donation2.png](https://s2.loli.net/2022/02/10/wcMdiR7OEn2ZzA6.png)
-
-The donation link is a link you can place to accept crypto donations. Put it on your social media and anyone will be able to donate .
 
 [MixPay](../../about-us/more-about-mixpay.md)’s automated donation acceptance and exchange process provides full [transparency](https://www.investopedia.com/terms/b/blockchain.asp#toc-transparency) into every crypto-donation and every donor who gives. [MixPay ](../../about-us/more-about-mixpay.md)is a perfect crypto payment for charitable donations.
 
@@ -21,10 +21,10 @@ The donation link is a link you can place to accept crypto donations. Put it on 
 * Fast-near instant transactions in less than 1s.
 * Secure - all assets are stored in PoS-BFT-DAG distributed [network](https://mixin.one/snapshots).&#x20;
 * Free - no transaction fee via [Mixin Messenger APP](https://mixin.one/messenger).
-* Powerful - support 40 public chains, 100+cryptocurrencies and growing.
+* Powerful - support 40 public chains, 100+cryptocurrencies（官网币页面链接） and growing.
 * Flexible-set up to receive any crypto donations/fiats you prefer.
 * Reach a [wider donors base](https://app.gitbook.com/s/DEi4HKufWDwkRvDViUEi/\~/changes/JARmAnbwCPiR9bwdyf1G/solutions/donations/why-donate-with-crypto).&#x20;
-* Easy installation with a simple donation link .
+* Easy installation with a simple [donation link](https://mixpay.me/thorb) .
 *   No third parties, [MixPay](../../about-us/more-about-mixpay.md) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) payment service with automated exchange for fiat.&#x20;
 
     ****
