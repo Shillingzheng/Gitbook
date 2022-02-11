@@ -4,7 +4,7 @@ You want to accept donations worldwide, peer-to-peer in a [decentralized](https:
 
 [MixPay](../../about-us/more-about-mixpay.md) is the #1 crypto donation solution, which provides the best payment gateway for nonprofits and charities to fundraise Bitcoin and other cryptocurrencies, and it also provides the donor with a [safe](https://www.investopedia.com/terms/b/blockchain.asp#toc-is-blockchain-secure) and clear process to donate cryptocurrency.&#x20;
 
-Nonprofits may feel hesitant and intimidated by the "complicated" technical integration. Luckily, [MixPay](../../about-us/more-about-mixpay.md) makes accepting and making crypto donations easy, fast, and safe for nonprofits, charities, universities, faith-based organizations with a simple [donation link](https://mixpay.me/thorb).&#x20;
+Nonprofits may feel hesitant and intimidated by the "complicated" technical integration. Luckily, [MixPay](../../about-us/more-about-mixpay.md) makes accepting and making crypto donations easy, fast, and safe for nonprofits, charities, universities, faith-based organizations with a simple [donation link](https://mixpay.me/MixPayGuide/donate).&#x20;
 
 The donation link is a link you can place to accept crypto donations. Put it on your social media and anyone will be able to donate .
 
@@ -24,7 +24,7 @@ Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bl
 * Powerful - support 40 public chains, 100+cryptocurrencies（website link） and growing.
 * Flexible-set up to receive any crypto donations/fiats you prefer.
 * Reach a [wider donors base](https://app.gitbook.com/s/DEi4HKufWDwkRvDViUEi/\~/changes/JARmAnbwCPiR9bwdyf1G/solutions/donations/why-donate-with-crypto).&#x20;
-* Easy installation with a simple [donation link](https://mixpay.me/thorb) .
+* Easy installation with a simple [donation link](https://mixpay.me/MixPayGuide/donate) .
 *   No third parties, [MixPay](../../about-us/more-about-mixpay.md) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) payment service with automated exchange for fiat.&#x20;
 
     ****
