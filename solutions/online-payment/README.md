@@ -16,9 +16,11 @@ MixPay supports all crypto wallets.,40 public chains, 100+cryptocurrencies（链
 
 MixPay is a perfect payment gateway that offers merchants the availability to accept funds using cryptos.Our flexible payment solution lets you decide which digital assets to pay/recieve with.
 
-To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment gateway, which lets you receive any cryptocurrencies as payment at your store.[Click here](https://developers.mixpay.me/docs/started/getting\_started)!
+To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment gateway, which lets you receive any cryptocurrencies as payment at your store.
 
-**Merchants Tools**
+### [Click here](https://developers.mixpay.me/docs/started/getting\_started)!
+
+**Merchant Tools**
 
 **1.** **Shopping cart plugins**
 
