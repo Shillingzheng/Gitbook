@@ -12,7 +12,7 @@
 2. Enter the App name and the developer's email.
 3. In “Admin API permissions”, give a “Read and Write” permission to Orders and click “Save”.
 4. Click “Create” and Copy the Example URL from the Admin API section.
-5. Go to your Mixin Messenger Account > Account Settings > Shopify and and paste the Example URL from Shopify.
+5. Go to your [Mixin Messenger](https://mixin.one/messenger) Account > Account Settings > Shopify and and paste the Example URL from Shopify.
 6. Click “Connect to Shopify”.
 7. Copy the “Additional script".
 8. Go to your Shopify Settings > Checkout > Order processing > Additional Scripts and paste the script (including the opening and closing tag script ). Click “Save”.
@@ -28,9 +28,9 @@ Our Shopify payment gateway provides the following benefits:
 * Fast-near instant transactions in less than 1s.&#x20;
 * Secure - All assets are stored in PoS-BFT-DAG distributed network.&#x20;
 * Free - No transaction fee via [Mixin Messenger](https://mixin.one/messenger) APP.&#x20;
-* Powerful - Support 40 public chains, 100+cryptocurrencies and growing.&#x20;
+* Powerful - Support 40 public chains, 100+cryptocurrencies（链接官网币页面） and growing.&#x20;
 * Flexible-Set up to receive any cryptos/fiats you prefer.&#x20;
 * Reach a wider customer base.&#x20;
 * Easy installation of the Shopify payment processing.&#x20;
 * Keep up with the technological advancements.&#x20;
-* No third parties, MixPay is a decentralized payment service.
+* No third parties, MixPay is a [decentralized](https://www.investopedia.com/terms/b/blockchain.asp#toc-blockchain-decentralization) payment service.

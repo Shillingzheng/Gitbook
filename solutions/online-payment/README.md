@@ -16,11 +16,9 @@ MixPay supports all crypto wallets.,40 public chains, 100+cryptocurrencies（链
 
 MixPay is a perfect payment gateway that offers merchants the availability to accept funds using cryptos.Our flexible payment solution lets you decide which digital assets to pay/recieve with.
 
-To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment gateway, which lets you receive any cryptocurrencies as payment at your store.
+To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment gateway, which lets you receive any cryptocurrencies as payment at your store.[Click here](https://developers.mixpay.me/docs/started/getting\_started)!
 
-
-
-![020902.pngStep2: Integrate MixPay to your website](https://s2.loli.net/2022/02/09/6yG9c8xId5qAzH3.png)
+**Merchants Tools**
 
 **1.** **Shopping cart plugins**
 
@@ -34,14 +32,14 @@ _****_
 
 Our variety of payment buttons can be implemented quickly and seamlessly to provide crypto payment functionality on your site.By button settings, you can make simple payment button.
 
-**Step3: Pay with crypto**
+**Pay with crypto**
 
 Your customers can choose the “Pay with Cryptocurrency” option to complete the payment, using Bitcoin, Ethereum and many more.They can scan in a QR code or send the funds by payment link.
 
-**Step4: Payment completed**
+**Payment completed**
 
 Funds are deposited into your MixPay account.Notifications are sent to both you and your customer to confirm the payment is completed.
 
-Get started accepting crypto payments by following along in our Step-by-Step Guide with native integration into your platform or a neat widget: Fee-free, custody-free, worry-free!
+Get started accepting crypto payments by following along in our Step-by-Step [Guide](https://developers.mixpay.me/docs/introduction) with native integration into your platform or a neat widget: Fee-free, custody-free, worry-free!
 
 Contact us at **public@mixpay.me**

@@ -12,27 +12,15 @@ MixPay offers a variety of ways to accept crypto payments from your customers. G
 
 To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment gateway, which lets you receive any cryptocurrencies as payment at your store.
 
-**Account Setup**
+****[**Click here**](https://developers.mixpay.me/docs/started/getting\_started)**!**
 
-**1. Sign up**
 
-Creat your [Mixin Messenger](https://mixin.one/messenger) account。
-
-**2. Add MixPay bot**
-
-Search bot ID (7000104220) in Mixin, add bot. Get started by following the steps below to add MixPay.
-
-**3. Receive Settings**
-
-Here, you can modify which coins/fiats you want to accept as payment.
-
-Go to: **"MixPay bot-Receive-Receive Settings,"** select which coins/fiats you want to accept as payment by setting up receiving currency.
 
 **eCommerce Integration**
 
 Accept multiple cryptocurrencies in your store with MixPay. Follow these simple steps:
 
 1. Sign in MixPay.
-2. Pre-Built eCommerce Plugins. There’s a full list of the pre-built plugins and integrations for all the major eCommerce platforms.
+2. Pre-Built eCommerce Plugins. There’s a full list of the pre-built plugins and integrations for all the major eCommerce platforms.[Example for Shopify](../solutions/online-payment/example-for-shopify.md).
 
 ![](../.gitbook/assets/image.png)
