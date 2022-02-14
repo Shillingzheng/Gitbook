@@ -28,7 +28,7 @@ Our Shopify payment gateway provides the following benefits:
 * Fast-near instant transactions in less than 1s.&#x20;
 * Secure - All assets are stored in PoS-BFT-DAG distributed network.&#x20;
 * Free - No transaction fee via [Mixin Messenger](https://mixin.one/messenger) APP.&#x20;
-* Powerful - Support 40 public chains, 100+cryptocurrencies（链接官网币页面） and growing.&#x20;
+* Powerful - Support 40 public chains, 100+cryptocurrencies（Website link） and growing.&#x20;
 * Flexible-Set up to receive any cryptos/fiats you prefer.&#x20;
 * Reach a wider customer base.&#x20;
 * Easy installation of the Shopify payment processing.&#x20;
