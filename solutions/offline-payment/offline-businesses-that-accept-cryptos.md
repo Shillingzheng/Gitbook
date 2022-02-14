@@ -10,7 +10,7 @@ Additionally, many independent pubs, clubs, and bars are open to crypto payments
 
 **Travel Agency**&#x20;
 
-Many online travel agencies like Travala adopted crypto payments a long time ago. Some of the famous brands include airBaltic, CheapAir.com, Abitsky.com, and many others that have facilitated crypto payments.
+Many online travel agencies like Travala adopted crypto payments a long time ago. Some of the famous brands include [airBaltic](https://www.airbaltic.com/en-LV/index?sref=GLV\&advariation=ongoing\&adv2=rsa\_2020\&gclsrc=aw.ds&\&gclid=CjwKCAiA9aKQBhBREiwAyGP5ldDLqw98fuiv5eI9zJQPAkCb1KIVYGX-MYUIk6NuQ5lQOBjEug-iOhoC2sQQAvD\_BwE), [CheapAir.com](https://www.cheapair.com), Abitsky.com, and many others that have facilitated crypto payments.
 
 Many local offline travel agencies have also welcomed crypto payments for customers who want to use their crypto investments the best way possible. You can book flights, buses, and even hotels with these travel agencies using Bitcoins and other popular cryptocurrencies. There are more and more travel agencies which accept crypto payments.&#x20;
 
@@ -28,7 +28,7 @@ Not all taxi services worldwide have started accepting Bitcoin payment. Still, i
 
 With a wide range of benefits offered in each educational course, the fees of institutions and universities are sky-high every year. It often becomes challenging to make big payments with cash. Hence, digital payments were introduced to make payments more manageable.&#x20;
 
-Bitcoin was added as part of digital payment for education. It was the University of Nicosia that first accepted Bitcoin as payment（链上官网） for its Digital Currency course. After that, many mainstream universities in the world started accepting Bitcoin as their tuition fees. Students can now pay with Bitcoin for enrolling in a particular course.&#x20;
+Bitcoin was added as part of digital payment for education. It was the University of Nicosia that first accepted Bitcoin as payment（**website link**） for its Digital Currency course. After that, many mainstream universities in the world started accepting Bitcoin as their tuition fees. Students can now pay with Bitcoin for enrolling in a particular course.&#x20;
 
 The famous European School of Management and Technology in Berlin takes Bitcoin for all their management courses. In the coming years, the use of Bitcoin as tuition fees will only increase further, enhancing the reach of cryptocurrency as the ideal payment method.&#x20;
 
