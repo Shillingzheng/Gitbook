@@ -6,21 +6,19 @@ description: Accept cryptos on your website.
 
 **Cryptocurrency payments for** [**E-commerce**](https://en.wikipedia.org/wiki/E-commerce) **easily**
 
-MixPay offers a variety of ways to accept crypto payments from your customers. Regardless of what crypto customers pay with, merchants can choose to accept the coins they prefer - MixPay(链上官网） converts them automatically.
-
-MixPay also supports fiat conversion and provides merchants with a variety of tools: API, invoices, donation widget, buttons, as well as plugins for Shopify, Magento 2 and others.
+MixPay offers a variety of ways to accept crypto payments from your customers. Regardless of what crypto customers pay with, merchants can choose to accept the coins they prefer - MixPay(**website link**） converts them automatically.
 
 MixPay is a [decentralized](https://www.investopedia.com/terms/b/blockchain.asp#toc-blockchain-decentralization) payment gateway, which means that all your payments will be instantly transferred to your own wallet that only you can have access to.
 
-MixPay supports all crypto wallets.,40 public chains, 100+cryptocurrencies（链接官币页面）like Bitcoin, Litecoin, Ethereum, and growing.
+MixPay supports all crypto wallets.,40 public chains, 100+cryptocurrencies（website link）like Bitcoin, Litecoin, Ethereum, and growing.
 
 MixPay is a perfect payment gateway that offers merchants the availability to accept funds using cryptos.Our flexible payment solution lets you decide which digital assets to pay/recieve with.
 
 To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment gateway, which lets you receive any cryptocurrencies as payment at your store.
 
-### [Click here](https://developers.mixpay.me/docs/started/getting\_started)!
+[**Click here**](https://developers.mixpay.me/docs/started/getting\_started)**!**
 
-**Merchant Tools**
+MixPay also supports fiat conversion and provides merchants with a variety of tools: API, invoices, donation widget, buttons, as well as plugins for Shopify, Magento 2 and others.See the example for Shopify！
 
 **1.** **Shopping cart plugins**
 

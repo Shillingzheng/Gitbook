@@ -16,7 +16,7 @@ Generally, a QR code is used to make Bitcoin payments when buying in retail stor
 
 ![Lark20220214-112608.png](https://s2.loli.net/2022/02/14/LVKuoknsjS7MNIR.png)
 
-After the customers scan the QR, a page will appear where they can confirm the payment. We provide payment instruments for every taste and occasion. In addition, MixPay is an extremely customer-oriented service and is always ready to provide customized solutions. Welcome to contact us at **public@mixpay.me**!&#x20;
+After the customers scan the QR, a page will appear where they can confirm the payment. We provide payment instruments for every taste and occasion. In addition, MixPay is an extremely customer-oriented service and is always ready to provide customized solutions.&#x20;
 
 MixPay is here to provide you the best crypto offline payment – you can start accepting crypto （official  website link）NOW!
 
@@ -45,3 +45,5 @@ You can also set up Quote currency, Amount, Receiving currency by Receive settin
 
 
 ![Lark20220214-113413.png](https://s2.loli.net/2022/02/14/W3YLHE6KhgD8ItO.png)
+
+**Click here to download more materials（link), any questions, contact us at public@mixpay.me**!&#x20;
