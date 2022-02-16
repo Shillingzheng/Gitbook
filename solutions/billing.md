@@ -4,7 +4,7 @@ description: Accept cryptos from clients via any method like email, sms.
 
 # Billing
 
-Electronic billing, or eBilling, is a method of sending bills and collecting electronic payments in which bills are delivered over the Internet and customers can pay electronically. eBilling is most helpful for businesses that send recurring bills to customers. For example, a utility company charges customers for power bills every month. Each month, the utility company can send an eBill to a customer explaining the month’s charges and offering the ability to pay online. eBills offer a win-win for customers and businesses. Because they are faster, convenient, less expensive, and more secure, everyone involved benefits from electronic billing. Learn more about ([https://www.avidxchange.com/blog/what-is-electronic-billing/](https://www.avidxchange.com/blog/what-is-electronic-billing/)) why it may be a good fit for any business with recurring bills.
+[Electronic billing](https://www.avidxchange.com/blog/what-is-electronic-billing/), or eBilling, is a method of sending bills and collecting electronic payments in which bills are delivered over the Internet and customers can pay electronically. eBilling is most helpful for businesses that send recurring bills to customers. For example, a [utility company](https://www.investopedia.com/terms/u/utilities\_sector.asp) charges customers for power bills every month. Each month, [the utility company](https://www.investopedia.com/terms/u/utilities\_sector.asp) can send an eBill to a customer explaining the month’s charges and offering the ability to pay online. eBills offer a win-win for customers and businesses. Because they are faster, convenient, less expensive, and more secure, everyone involved benefits from [electronic billing](https://www.avidxchange.com/blog/what-is-electronic-billing/). [Learn more about](https://www.avidxchange.com/blog/what-is-electronic-billing/) why it may be a good fit for any business with recurring bills.
 
 MixPay(website link) is here to provide you the solution of receiving crypto payments with email billing. You can send instant crypto bills to your customers, to friends and family. Using crypto to pay for goods and services, is easy once you get the hang of it. The solution is available to use it in [MixPay](../about-us/more-about-mixpay.md) without any coding efforts at all. All you need to do is to send a link with QR code of bills via email or sms .
 
@@ -22,7 +22,7 @@ MixPay(website link) is a perfect crypto payment for crypto ebilling，which pro
 * Free - no transaction fee via [Mixin Messenger ](https://mixin.one/messenger)APP.
 * Powerful - support 40 public chains, 100+cryptocurrencies(website link) and growing.
 * Flexible-set up to receive any crypto coins/fiats you prefer.
-* Easy installation with a simple QR link .
+* Easy installation with a simple [QR link](https://sm.ms/image/obHqSxTDy3tLlXh) .
 * No third parties, MixPay is a [decentralized](https://www.investopedia.com/terms/b/blockchain.asp#toc-blockchain-decentralization) payment service
 * Automated Exchange for FIAT.
 
@@ -32,7 +32,7 @@ So, instead of setting up a whole payment method for one or a few clients to pay
 
 Simply share a link or deliver the bill via email. Then it’s for you to decide whether you want to keep the coin as it is, convert it to fiat currency or other coins.
 
-Whether businesses, non-profits or freelance workers now have an option to accept crypto payments via billing service. Get started today!
+Whether businesses, non-profits or freelance workers now have an option to accept crypto payments via billing service. [Get started today](https://mixin.one/messenger)!
 
 To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay(website link) payment gateway, which lets you receive any cryptocurrencies as payment at your store.&#x20;
 
