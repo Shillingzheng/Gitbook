@@ -19,11 +19,11 @@ MixPay(website link) is a perfect crypto payment for crypto ebilling，which pro
 * Global-accept crypto payment from anywhere in the world.
 * Fast-near instant transactions in less than 1s.
 * Secure - all assets are stored in PoS-BFT-DAG distributed network.
-* Free - no transaction fee via Mixin Messenger APP.
-* Powerful - support 40 public chains, 100+cryptocurrencies and growing.
+* Free - no transaction fee via [Mixin Messenger ](https://mixin.one/messenger)APP.
+* Powerful - support 40 public chains, 100+cryptocurrencies(website link) and growing.
 * Flexible-set up to receive any crypto coins/fiats you prefer.
 * Easy installation with a simple QR link .
-* No third parties, MixPay is a decentralized payment service
+* No third parties, MixPay is a [decentralized](https://www.investopedia.com/terms/b/blockchain.asp#toc-blockchain-decentralization) payment service
 * Automated Exchange for FIAT.
 
 All payment details, contacts, as well as paid and unpaid bills, can be tracked in [MixPay](../about-us/more-about-mixpay.md).
