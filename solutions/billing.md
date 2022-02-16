@@ -18,7 +18,7 @@ MixPay(website link) is a perfect crypto payment for crypto ebilling，which pro
 
 * Global-accept crypto payment from anywhere in the world.
 * Fast-near instant transactions in less than 1s.
-* Secure - all assets are stored in PoS-BFT-DAG distributed network.
+* Secure - all assets are stored in PoS-BFT-DAG distributed [network](https://mixin.one/snapshots).
 * Free - no transaction fee via [Mixin Messenger ](https://mixin.one/messenger)APP.
 * Powerful - support 40 public chains, 100+cryptocurrencies(website link) and growing.
 * Flexible-set up to receive any crypto coins/fiats you prefer.
