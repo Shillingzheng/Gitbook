@@ -10,11 +10,11 @@ If you’re a [MixPay](../../about-us/more-about-mixpay.md) customer, you can al
 
 It's super easy to send cryptos via email address, phone number or dns. Even if the recipient is not in [MixPay](../../about-us/more-about-mixpay.md) yet. The sender just writes an email address :&#x20;
 
-![20220217-150138.png](https://s2.loli.net/2022/02/17/t4DyAbNufIxRgsd.png)
+![Lark20220217-162628.png](https://s2.loli.net/2022/02/17/XCHnaJtj2VU93r6.png)
 
 When he hits “Send”, his email app is opened with prefilled text for the recipient. The sender can edit it before sending. The recipient receives an email like this:
 
-![Lark20220217-150200.png](https://s2.loli.net/2022/02/17/zmPlDEbUp1YHswc.png)
+![Lark20220217-162638.png](https://s2.loli.net/2022/02/17/ys1cJOeTF5UulAY.png)
 
 He clicks the link and the money is added to his balance. If he doesn’t have a wallet yet, he is prompted to install [MixPay app](https://mixin.one/messenger) in order to receive the money. Simple as hell.&#x20;
 
