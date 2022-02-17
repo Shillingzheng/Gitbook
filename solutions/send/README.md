@@ -53,13 +53,17 @@ Search bot ID (7000104220) in Mixin, add bot.
 
 #### 3. Open your MixPay wallet, select "Send".
 
-**4. Enter the recipient's email address, phone number or dns. Use the email address/ phone number/dns associated with the recipient's MixPay account.**&#x20;
+**4. Enter the recipient's email address, phone number or dns.**&#x20;
+
+Use the email address/ phone number/dns associated with the recipient's MixPay account.&#x20;
 
 &#x20;
 
 ![Lark20220217-151026.png](https://s2.loli.net/2022/02/17/AEid36trheKN4nW.png)
 
-**5. Select the amount and the cryptocurrency you wish to send . You can choose any crypto you want to send. You can also add an optional note to describe why you’re sending the crypto funds.**
+**5. Select the amount and the cryptocurrency you wish to send .**&#x20;
+
+You can choose any crypto you want to send. You can also add an optional note to describe why you’re sending the crypto funds.
 
 &#x20;
 
