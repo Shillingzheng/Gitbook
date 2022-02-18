@@ -23,20 +23,22 @@ Search bot ID (7000104220) in Mixin, add bot. Then you can use MixPay.
 
 Go to: "**1. recieve- 2. recieve settings-3.confirm**'', you can set up to recieve any cryptos/fiats you want.
 
-![p7.jpg](https://s2.loli.net/2022/01/13/bcQqhupoL4wmrIv.jpg)
+![](https://s2.loli.net/2022/02/18/3pyRILwh8WznXO4.png)
 
-**4.  Withdraw**
+You can also set up My QR, recieve payments via link.
 
-_**Withdraw crypto**_:
+![](https://s2.loli.net/2022/02/18/RHnxOFE4vzhpUiu.png)
+
+**Withdraw crypto**
 
 Go to: "**1.withdraw-2.cryptos-3. Amount-4.confirm**'', you can choose crypto you want to wallet.
 
-![withc.jpg](https://s2.loli.net/2022/01/13/Y7jXWRy3Ksrc8im.jpg)
+![](https://s2.loli.net/2022/02/18/Wbqw3yk1Erf2eR9.png)
 
 _**Withdraw fiat**_:
 
-Go to: "**1.withdraw-2.fiats -3.Amount-4.confirm**'', you can choose fiat you want to wallet, 0.1% [fee](fees.md) for fiats.
+Go to: "**1.withdraw-2.fiats -3.Amount-4.confirm**'', you can choose fiat you want to wallet.
 
-![withf.jpg](https://s2.loli.net/2022/01/13/WPblCgIJwZKFuYx.jpg)
+![](https://s2.loli.net/2022/02/18/pYcyXM3JCUPOLuS.png)
 
 These two steps are the base settings. Once you’ve completed them, you can start your MixPay  right away. If any questions, you can  simply contact bot (7000104220).
