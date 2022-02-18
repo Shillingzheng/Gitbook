@@ -8,13 +8,9 @@ In the past, if you wanted to send crypto to another person, you needed their wa
 
 If you’re a [MixPay](../../about-us/more-about-mixpay.md) customer, you can also send crypto to any email address in 100+ countries instantly and for free. Just open your [MixPay app](https://mixin.one/messenger), select the crypto and an amount, enter the recipient’s email address, and hit send.&#x20;
 
-It's super easy to send cryptos via email address, phone number or dns. Even if the recipient is not in [MixPay](../../about-us/more-about-mixpay.md) yet. The sender just writes an email address :&#x20;
+It's super easy to send cryptos via email address, phone number or dns. Even if the recipient is not in [MixPay](../../about-us/more-about-mixpay.md) yet. The sender just writes an email address.（MixPay picture）
 
-![](https://s2.loli.net/2022/02/17/XCHnaJtj2VU93r6.png)
-
-When he hits “Send”, his email app is opened with prefilled text for the recipient. The sender can edit it before sending. The recipient receives an email like this:
-
-![](https://s2.loli.net/2022/02/17/ys1cJOeTF5UulAY.png)
+When he hits “Send”, his email app is opened with prefilled text for the recipient. The sender can edit it before sending. The recipient receives an email like this.（MixPay picture）
 
 He clicks the link and the money is added to his balance. If he doesn’t have a wallet yet, he is prompted to install [MixPay app](https://mixin.one/messenger) in order to receive the money. Simple as hell.&#x20;
 
@@ -57,20 +53,16 @@ Search bot ID (7000104220) in Mixin, add bot.
 
 Use the email address/ phone number/dns associated with the recipient's MixPay account.&#x20;
 
-&#x20;
-
-![](https://s2.loli.net/2022/02/17/AEid36trheKN4nW.png)
+（MixPay picture）
 
 **5. Select the amount and the cryptocurrency you wish to send .**&#x20;
 
 You can choose any crypto you want to send. You can also add an optional note to describe why you’re sending the crypto funds.
 
-&#x20;
-
-![](https://s2.loli.net/2022/02/17/wPaefLuXg743qO6.png)
+（MixPay picture）
 
 **6. Complete the transaction. You’re all set!**
 
-![](https://s2.loli.net/2022/02/17/iCLWnNZ1pk9qflz.png)
+（MixPay picture）
 
 **More questions, contact us at public@mixpay.me**
