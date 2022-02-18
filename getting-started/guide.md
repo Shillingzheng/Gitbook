@@ -10,14 +10,14 @@ It's easy to use MixPay, here are the steps how to use MixPay:
 
     Download the Mixin Messenger App from the Google Play Store or the Apple App Store. Then, sign into your Mixin account via the App ( You only need to do this once when setting up the App).
 
+    &#x20;               ![021801.png](https://s2.loli.net/2022/02/18/BUZDmcIRiqQdXsE.png)****
+2. **Add MixPay bot**
 
-2.  **Add MixPay bot**
-
-    Search bot ID (7000104220) in Mixin, add bot. Then you can use MixPay.
-
-    ![p2.jpg](https://s2.loli.net/2022/01/13/HxSojLaZ4dXCYFk.jpg)
+Search bot ID (7000104220) in Mixin, add bot. Then you can use MixPay.
 
 ****
+
+![](https://s2.loli.net/2022/02/18/dCtcF6JVgMyvLTG.png)
 
 3\. **Receive payments**
 
