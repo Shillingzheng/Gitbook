@@ -14,5 +14,5 @@ We make it easy for you to send/recieve crypto.
 
     Here are some of the leading wallets and exchanges Mixpay Supports. We think they are awesome and believe you will do.          &#x20;
 
-![p5.jpg](https://s2.loli.net/2022/01/13/bIXP3SuBYLCNJDK.jpg)
+![](https://s2.loli.net/2022/01/13/bIXP3SuBYLCNJDK.jpg)
 

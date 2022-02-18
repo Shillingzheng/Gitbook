@@ -6,10 +6,10 @@ description: >-
 
 # Overview
 
-_**MixPay**_** ** is a crypto payment service provider based on [Mixin Network](https://mixin.one) , founded in Nov, 2021 by **Thorb**. _MixPay_ makes it easy to spend, accept and store cryptos.
+_**MixPay**_** ** is a crypto payment service provider based on [Mixin Network](https://mixin.one) , founded in Nov, 2021. _MixPay_ makes it easy to spend, accept and store cryptos.
 
 _**MixPay** _ supports all crypto wallets, 100+and growing; _**Regardless of what crypto customers pay with, merchants can choose to accept the coins they prefer - MixPay converts them automatically.**_
 
 _**MixPay**_ is the easiest way to accept cryptocurrency payments in store or in person. Whether you're a business owner, or a crypto user, sign up and get started today.
 
-[More about MixPay](https://app.gitbook.com/o/dEcfD11c0WTu9ktr4VWt/s/DEi4HKufWDwkRvDViUEi/c/jQYbbsftaYFn781Rc0No/about-us/more-about-mixpay)
+[More about MixPay](about-us/more-about-mixpay.md)
