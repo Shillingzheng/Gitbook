@@ -23,4 +23,4 @@ Accept multiple cryptocurrencies in your store with MixPay. Follow these simple 
 1. Sign in MixPay.
 2. Pre-Built eCommerce Plugins. There’s a full list of the pre-built plugins and integrations for all the major eCommerce platforms.[Example for Shopify](../solutions/online-payment/example-for-shopify.md).
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)

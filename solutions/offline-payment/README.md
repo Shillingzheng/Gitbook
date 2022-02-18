@@ -14,7 +14,7 @@ Acceptance, availability and widespread use of cryptocurrency have certainly cha
 
 Generally, a QR code is used to make Bitcoin payments when buying in retail stores.With MixPay, it’s easy and safe to do this. All you need to do is just to post the payment QR on your store.&#x20;
 
-![Lark20220214-112608.png](https://s2.loli.net/2022/02/14/LVKuoknsjS7MNIR.png)
+![](https://s2.loli.net/2022/02/14/LVKuoknsjS7MNIR.png)
 
 After the customers scan the QR, a page will appear where they can confirm the payment. We provide payment instruments for every taste and occasion. In addition, MixPay is an extremely customer-oriented service and is always ready to provide customized solutions.&#x20;
 
@@ -24,7 +24,7 @@ MixPay is here to provide you the best crypto offline payment – you can start 
 
 Download the Mixin Messenger App from the Google Play Store or the Apple App Store. Then, sign into your Mixin account via the App ( You only need to do this once when setting up the App).​​
 
-![020901.png](https://s2.loli.net/2022/02/14/I2CWTiKoUOEMGan.png)
+![](https://s2.loli.net/2022/02/14/I2CWTiKoUOEMGan.png)
 
 **2. Add MixPay bot**
 
@@ -32,18 +32,18 @@ Search bot ID (7000104220) in Mixin, add bot. Then you can use MixPay.
 
 ​​
 
-![020902.png](https://s2.loli.net/2022/02/14/QSdzCZe53iDuhPp.png)
+![](https://s2.loli.net/2022/02/14/QSdzCZe53iDuhPp.png)
 
 **3. Show your QR code**
 
 Open bot.Show your QR code to customer to recieve payments or post the payment QR on your store.&#x20;
 
-![Lark20220214-110626.png](https://s2.loli.net/2022/02/14/ODXyrU1TBxSLYMN.png)
+![](https://s2.loli.net/2022/02/14/ODXyrU1TBxSLYMN.png)
 
 You can also set up Quote currency, Amount, Receiving currency by Receive settings.
 
 
 
-![Lark20220214-113413.png](https://s2.loli.net/2022/02/14/W3YLHE6KhgD8ItO.png)
+![](https://s2.loli.net/2022/02/14/W3YLHE6KhgD8ItO.png)
 
 **Click here to download more materials（link), any questions, contact us at public@mixpay.me**!&#x20;

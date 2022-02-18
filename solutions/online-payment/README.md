@@ -26,7 +26,7 @@ MixPay also supports fiat conversion and provides merchants with a variety of to
 
 Our prebuilt plugins for all the major ecommerce platforms will get your store set up with MixPay in minutes. Download the appropriate plugin, edit settings to complete the integration.[Example for Shopify](example-for-shopify.md):
 
-![Lark20220209-114625.png](https://s2.loli.net/2022/02/09/KQeHrSpdiA8FnRU.png)
+![](https://s2.loli.net/2022/02/09/KQeHrSpdiA8FnRU.png)
 
 _****_
 

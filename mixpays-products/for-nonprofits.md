@@ -13,7 +13,7 @@ Accepting cryptocurrency donations is easier than stocks. We help you open an ac
 
 Our crypto payment gateway provides the most easiest way for donations. If you feel ready to broaden your horizons and open up to accepting donations in crypto, our cryptocurrency payment system is waiting for you!&#x20;
 
-![use-of-donation 1.png](https://s2.loli.net/2022/01/14/Xxt3OmEldHKD74W.png)
+![](https://s2.loli.net/2022/01/14/Xxt3OmEldHKD74W.png)
 
 **We Raise More Money**
 
@@ -29,4 +29,4 @@ The donation button is a simple donation tool you can add to your website, blog,
 
 
 
-![d2.pn](https://s2.loli.net/2022/01/14/8F4wUf3RzY5KZIG.png)
+![](https://s2.loli.net/2022/01/14/8F4wUf3RzY5KZIG.png)

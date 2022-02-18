@@ -10,9 +10,9 @@ The donation link is a link you can place to accept crypto donations. Put it on 
 
 Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bloggers](https://www.blogtyrant.com/what-does-a-blogger-do/) who want to figure out how they are going to accept crypto donations.It’s more important to have a way to get the donations. All they need to do is just to place the donation link on their page. After the visitors click the link, a page will appear where they can confirm the donation.
 
-![Lark20220211-212607.png](https://s2.loli.net/2022/02/11/4S9v5dUnmQByPkG.png)
+![](https://s2.loli.net/2022/02/11/4S9v5dUnmQByPkG.png)
 
-![Lark20220211-212613.png](https://s2.loli.net/2022/02/11/DerbWcNgzGkfoEK.png)
+![](https://s2.loli.net/2022/02/11/DerbWcNgzGkfoEK.png)
 
 [MixPay](../../about-us/more-about-mixpay.md)’s automated donation acceptance and exchange process provides full [transparency](https://www.investopedia.com/terms/b/blockchain.asp#toc-transparency) into every crypto-donation and every donor who gives. [MixPay ](../../about-us/more-about-mixpay.md)is a perfect crypto payment for charitable donations.
 
@@ -39,31 +39,31 @@ Sign up and get ready for the easiest and cheapest way to accept cryptocurrency 
 
 Creat your [Mixin Messenger](https://mixin.one/messenger) account.
 
-![aaaaa.png](https://s2.loli.net/2022/02/10/odX85zb4s7QOugc.png)
+![](https://s2.loli.net/2022/02/10/odX85zb4s7QOugc.png)
 
 #### 2. Add MixPay bot
 
 Search bot ID (7000104220) in Mixin, add bot.
 
-![aaaaaa.png](https://s2.loli.net/2022/02/10/BPzMFi7cHJORjdT.png)
+![](https://s2.loli.net/2022/02/10/BPzMFi7cHJORjdT.png)
 
 #### 3. Create your Donation link
 
 Open MixPay - Click Recieve - Set up My QR.
 
-![Lark20220211-212321.png](https://s2.loli.net/2022/02/11/odbuYypqaHRB7mA.png)
+![](https://s2.loli.net/2022/02/11/odbuYypqaHRB7mA.png)
 
 Add QR code.
 
-![aaaa.png](https://s2.loli.net/2022/02/10/4y2DLnr3KCViTp6.png)
+![](https://s2.loli.net/2022/02/10/4y2DLnr3KCViTp6.png)
 
 Complete the settings:Quote currency, Recieve currency, create your own customized link with a catchy name! Confirm it.
 
-![Lark20220211-212419.png](https://s2.loli.net/2022/02/11/G2b7KseigyuHPS4.png)
+![](https://s2.loli.net/2022/02/11/G2b7KseigyuHPS4.png)
 
 Copy the link and place it anywhere you like!
 
-![Lark20220211-212621.png](https://s2.loli.net/2022/02/11/CI7elqRazwVWMTQ.png)
+![](https://s2.loli.net/2022/02/11/CI7elqRazwVWMTQ.png)
 
 Get started accepting crypto donation with MixPay（website  link）!
 

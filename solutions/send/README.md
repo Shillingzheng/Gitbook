@@ -10,11 +10,11 @@ If you’re a [MixPay](../../about-us/more-about-mixpay.md) customer, you can al
 
 It's super easy to send cryptos via email address, phone number or dns. Even if the recipient is not in [MixPay](../../about-us/more-about-mixpay.md) yet. The sender just writes an email address :&#x20;
 
-![Lark20220217-162628.png](https://s2.loli.net/2022/02/17/XCHnaJtj2VU93r6.png)
+![](https://s2.loli.net/2022/02/17/XCHnaJtj2VU93r6.png)
 
 When he hits “Send”, his email app is opened with prefilled text for the recipient. The sender can edit it before sending. The recipient receives an email like this:
 
-![Lark20220217-162638.png](https://s2.loli.net/2022/02/17/ys1cJOeTF5UulAY.png)
+![](https://s2.loli.net/2022/02/17/ys1cJOeTF5UulAY.png)
 
 He clicks the link and the money is added to his balance. If he doesn’t have a wallet yet, he is prompted to install [MixPay app](https://mixin.one/messenger) in order to receive the money. Simple as hell.&#x20;
 
@@ -43,13 +43,13 @@ To help you out, we have created a simple and free step-by-step guide below – 
 
 Creat your [Mixin Messenger](https://mixin.one/messenger) account.
 
-![aaaaa.png](https://s2.loli.net/2022/02/10/odX85zb4s7QOugc.png)
+![](https://s2.loli.net/2022/02/10/odX85zb4s7QOugc.png)
 
 #### 2. Add MixPay bot
 
 Search bot ID (7000104220) in Mixin, add bot.
 
-![aaaaaa.png](https://s2.loli.net/2022/02/10/BPzMFi7cHJORjdT.png)
+![](https://s2.loli.net/2022/02/10/BPzMFi7cHJORjdT.png)
 
 #### 3. Open your MixPay wallet, select "Send".
 
@@ -59,7 +59,7 @@ Use the email address/ phone number/dns associated with the recipient's MixPay a
 
 &#x20;
 
-![Lark20220217-151026.png](https://s2.loli.net/2022/02/17/AEid36trheKN4nW.png)
+![](https://s2.loli.net/2022/02/17/AEid36trheKN4nW.png)
 
 **5. Select the amount and the cryptocurrency you wish to send .**&#x20;
 
@@ -67,10 +67,10 @@ You can choose any crypto you want to send. You can also add an optional note to
 
 &#x20;
 
-![Lark20220217-151030.png](https://s2.loli.net/2022/02/17/wPaefLuXg743qO6.png)
+![](https://s2.loli.net/2022/02/17/wPaefLuXg743qO6.png)
 
 **6. Complete the transaction. You’re all set!**
 
-![Lark20220217-151034.png](https://s2.loli.net/2022/02/17/iCLWnNZ1pk9qflz.png)
+![](https://s2.loli.net/2022/02/17/iCLWnNZ1pk9qflz.png)
 
 **More questions, contact us at public@mixpay.me**

@@ -40,24 +40,24 @@ To help you out, we have created a simple and free step-by-step guide to help ge
 
 Creat your [Mixin Messenger](https://mixin.one/messenger) account.
 
-![aaaaa.png](https://s2.loli.net/2022/02/10/odX85zb4s7QOugc.png)
+![](https://s2.loli.net/2022/02/10/odX85zb4s7QOugc.png)
 
 #### 2. Add MixPay bot
 
 Search bot ID (7000104220) in Mixin, add bot.
 
-![aaaaaa.png](https://s2.loli.net/2022/02/10/BPzMFi7cHJORjdT.png)
+![](https://s2.loli.net/2022/02/10/BPzMFi7cHJORjdT.png)
 
 #### 3. Send Bill
 
 Create a bill and send to your client.
 
-![Lark20220216-122757.png](https://s2.loli.net/2022/02/16/nXBhR8iTDEZ7meG.png)
+![](https://s2.loli.net/2022/02/16/nXBhR8iTDEZ7meG.png)
 
 #### 4. Payment
 
 Share it via the link or send through our email service.Your customer pays the MixPay invoice via QR or link.
 
-![Lark20220216-121533.png](https://s2.loli.net/2022/02/16/obHqSxTDy3tLlXh.png)
+![](https://s2.loli.net/2022/02/16/obHqSxTDy3tLlXh.png)
 
 **More questions, contact us at public@mixpay.me**
