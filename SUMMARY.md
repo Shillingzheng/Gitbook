@@ -30,6 +30,8 @@
 * [Send](solutions/send/README.md)
   * [Advantages of MixPay](solutions/send/advantages-of-mixpay.md)
 * [POS System](solutions/pos-system-copy.md)
+* [Page 1](solutions/page-1.md)
+* [Page 1](solutions/page-1-1.md)
 * [Swap](solutions/swap.md)
 * [Subscriptions](solutions/subscriptions.md)
 * [DAO](solutions/dao.md)

@@ -10,27 +10,34 @@ A crypto [Point-of-Sale](https://www.investopedia.com/terms/p/point-of-sale.asp)
 
 POS is generally a safe way of accepting cryptocurrencies for both the merchant and the client. It also lets the merchant fully customize their invoices and issue new ones for each client. That is why POS is an excellent option for small brick-and-mortar stores that do not need to process hundreds of payments per second.
 
-Point-of-Sale systems allow merchants to calculate the amount a customer needs to pay and issue an invoice. In short, it is the point when the customer makes the payment in a physical store.&#x20;
-
-A POS terminal processes and records transactions.
+In short, it is the point when the customer makes the payment in a physical store. A POS terminal processes and records transactions.
 
 With the MixPay crypto Point-of-Sale system, your customers will be able to pay with cryptocurrency when buying from your offline store.
+
+The Point-of-Sale gateway requires only two steps. The first one is entering the sum that your client needs to pay in the fiat currency of your choice. The second step is the auto-generation of the QR code.
+
+Your client can scan the QR code using their phone and pay the sum which you specified earlier with the help of their mobile or desktop crypto wallet.**Regardless of what crypto your clients pay with, you can receive the fiat currency that you have chosen - MixPay converts them automatically.**
 
 Point-of-sale systems offer a lot of benefits, such as quick payments, simple invoicing and the ability to manage your transactions. [Learn more about](https://www.investopedia.com/terms/p/point-of-sale.asp) POS.
 
 A simple Point-of-Sale software integration with MixPay will offer your customers an easy way to spend their crypto in your offline store.&#x20;
 
-What you need to do is to follow the detailed guide document(open soooooon!)
+What you need to do is to follow the detailed guide document(**open soooooon!**)
 
-Then, you're able to set up the amount in MixPay ,  show the QR code  or send the link to the payer,&#x20;
-
-How to start accepting crypto using the MixPay Point-of-Sale system:
-
-Soooooon!
-
-Currently, our POS  is under maintenance, and it might take a while before they’re ready to be released. If you wish to be the first one to hear about the launch, contact us at [public@mixpay.me](mailto:public@mixpay.me)
+It might take a while before POS ready to be released. If you wish to be the first one to hear about the launch, contact us at [public@mixpay.me](mailto:public@mixpay.me)
 
 
+
+* Fast-near instant transactions in less than 1s.
+* Secure - all assets are stored in PoS-BFT-DAG distributed [network](https://mixin.one/snapshots).&#x20;
+* Free - no transaction fee via [Mixin Messenger APP](https://mixin.one/messenger).
+* Powerful - support 40 public chains, 100+cryptocurrencies（website link） and growing.
+* Flexible-set up to receive any crypto donations/fiats you prefer.
+* Reach a [wider donors base](https://app.gitbook.com/s/DEi4HKufWDwkRvDViUEi/\~/changes/JARmAnbwCPiR9bwdyf1G/solutions/donations/why-donate-with-crypto).&#x20;
+* Easy installation with a simple [donation link](https://mixpay.me/MixPayGuide/donate) .
+* No third parties, [MixPay](../about-us/more-about-mixpay.md) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) payment service with automated exchange for fiat.&#x20;
+
+[MixPay](../about-us/more-about-mixpay.md) payment gateway provides the following benefits:
 
 \
 
@@ -65,26 +72,4 @@ When a customer wants to pay, simply:
 1. Open your saved checkout page and enter the customer's total then click Next.
 2. If you are accepting more than Bitcoin ask the customer which coin they would like to pay with and select it for them, then click Next.
 3. The status page will have a QR code on it, display this to the buyer so they can scan it with their phone to pay the balance.
-4. Watch the status page until it indicates they have sent funds, depending on the amount of the order you may want to wait for the payment to be Complete in case of any issues. _ **(WARNING: If you do choose to accept payment without confirms make sure the amount they sent matches the total expected!)**_
-
-__
-
-**Point of Sale Link Maker**
-
-![Lark1.png](https://s2.loli.net/2022/01/25/ld9cuxvwiboEr1f.png)
-
-__
-
-**POS Example**
-
-****
-
-![2.png](https://s2.loli.net/2022/01/25/JCj1RHn3aIViZ27.png)
-
-****
-
-![Lark3.png](https://s2.loli.net/2022/01/25/RnbYsl8o5CjMZAO.png)
-
-
-
-![Lark4.png](https://s2.loli.net/2022/01/25/GKaMmOkRQxSytHg.png)
+4. Watch the status page until it indicates they have sent funds, depending on the amount of the order you may want to wait for the payment to be Complete in case of any issues. _ **(WARNING: If you do choose to accept payment without confirms make sure the amount they sent matches the total expected!**_
