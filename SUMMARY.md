@@ -29,14 +29,14 @@
 * [Billing](solutions/billing.md)
 * [Send](solutions/send/README.md)
   * [Advantages of MixPay](solutions/send/advantages-of-mixpay.md)
-* [Sell](solutions/sell.md)
 * [Swap](solutions/swap.md)
-* [Payroll](solutions/payroll.md)
 * [Payment Service Integrator](solutions/payment-service-integrator.md)
 * [POS System](solutions/pos-system-copy.md)
 * [Subscriptions](solutions/subscriptions.md)
 * [DAO](solutions/dao.md)
 * [Secured Transactions](solutions/secured-transactions.md)
+* [Sell](solutions/sell.md)
+* [Payroll](solutions/payroll.md)
 
 ## Help
 
