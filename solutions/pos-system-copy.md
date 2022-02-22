@@ -6,6 +6,10 @@ description: Enhance in-person transactions with crypto payments.
 
 What is Point-of-Sale (POS)?
 
+A crypto [Point-of-Sale](https://www.investopedia.com/terms/p/point-of-sale.asp) (POS) is a solution for deploying a cryptocurrency payment gateway. The POS system enables your clients to pay for goods and services with Bitcoin or other cryptocurrencies using their smartphone and crypto wallet. The main advantage of the POS method is the convenience since it takes mere seconds to create a link/QR that the customer can utilize to pay. The POS gateway is also simple to use and does not involve building complex infrastructure.
+
+POS is generally a safe way of accepting cryptocurrencies for both the merchant and the client. It also lets the merchant fully customize their invoices and issue new ones for each client. That is why POS is an excellent option for small brick-and-mortar stores that do not need to process hundreds of payments per second.
+
 Point-of-Sale systems allow merchants to calculate the amount a customer needs to pay and issue an invoice. In short, it is the point when the customer makes the payment in a physical store.&#x20;
 
 A POS terminal processes and records transactions.
