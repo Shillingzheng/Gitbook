@@ -4,7 +4,51 @@ description: Enhance in-person transactions with crypto payments.
 
 # POS System
 
+What is Point-of-Sale (POS)?
+
+Point-of-Sale systems allow merchants to calculate the amount a customer needs to pay and issue an invoice. In short, it is the point when the customer makes the payment in a physical store.&#x20;
+
+A POS terminal processes and records transactions.
+
+With the MixPay crypto Point-of-Sale system, your customers will be able to pay with cryptocurrency when buying from your offline store.
+
+Point-of-sale systems offer a lot of benefits, such as quick payments, simple invoicing and the ability to manage your transactions. [Learn more about](https://www.investopedia.com/terms/p/point-of-sale.asp) POS.
+
+A simple Point-of-Sale software integration with MixPay will offer your customers an easy way to spend their crypto in your offline store.&#x20;
+
+What you need to do is to follow the detailed guide document(open soooooon!)
+
+Then, you're able to set up the amount in MixPay ,  show the QR code  or send the link to the payer,&#x20;
+
+How to start accepting crypto using the MixPay Point-of-Sale system:
+
 Soooooon!
+
+Currently, our POS  is under maintenance, and it might take a while before they’re ready to be released. If you wish to be the first one to hear about the launch, contact us at [public@mixpay.me](mailto:public@mixpay.me)
+
+
+
+\
+
+
+
+
+Who uses crypto Point-of-Sale?
+
+* Food industry:
+  * [Burger King Venezuela](https://finance.yahoo.com/news/burger-king-accept-crypto-venezuela-193757581.html) accepts Bitcoin
+  * [PizzaForCoins](https://pizzaforcoins.com)&#x20;
+* Other:
+  * [Cooperativa RadioTaxi](https://www.3570.it)&#x20;
+* Point-of sale systems for small business are very beneficial, and there are various companies enabling them globally.
+
+## Point-of-Sale **(PoS)** web solution
+
+Accept crypto with any device, any browser, on the go.
+
+* **Responsive** - adapts to any device
+* **Fast** - payments confirmed in seconds
+* **Secure** - enable 2FA protection and more
 
 **Tutorial: Point of Sale Interface**
 

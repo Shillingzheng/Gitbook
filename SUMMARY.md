@@ -31,10 +31,10 @@
   * [Advantages of MixPay](solutions/send/advantages-of-mixpay.md)
 * [POS System](solutions/pos-system-copy.md)
 * [Swap](solutions/swap.md)
-* [Payment Service Integrator](solutions/payment-service-integrator.md)
 * [Subscriptions](solutions/subscriptions.md)
 * [DAO](solutions/dao.md)
 * [Secured Transactions](solutions/secured-transactions.md)
+* [Payment Service Integrator](solutions/payment-service-integrator.md)
 * [Sell](solutions/sell.md)
 * [Payroll](solutions/payroll.md)
 
