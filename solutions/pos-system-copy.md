@@ -24,9 +24,7 @@ The Point-of-Sale gateway requires only two steps. The first one is entering the
 
 Your client can scan the QR code using their phone and pay the sum which you specified earlier with the help of their mobile or desktop crypto wallet. **Regardless of what crypto your clients pay with, you can receive the fiat currency that you have chosen - MixPay converts them automatically.**
 
-Point-of-sale systems offer a lot of benefits, such as quick payments, simple invoicing and the ability to manage your transactions. [Learn more about](https://www.investopedia.com/terms/p/point-of-sale.asp) POS.
-
-When the connection with MixPay is completed successfully, your POS can accept crypto with any device, any browser. It will offer your customers an easy way to spend their crypto in your offline store with lots of [benefits](pos-system/pos-benefits.md).
+Point-of-sale systems offer a lot of benefits, such as quick payments, simple invoicing and the ability to manage your transactions. When the connection with MixPay is completed successfully, your POS can accept crypto with any device, any browser. It will offer your customers an easy way to spend their crypto in your offline store with lots of [benefits](pos-system/mixpays-pos-benefits.md).
 
 * **Responsive** - adapts to any devices
 * **Fast** - payments confirmed in seconds
