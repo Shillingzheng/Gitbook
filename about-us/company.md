@@ -1,7 +1,7 @@
 ---
 description: >-
-  MixPay is a crypto payment service provider based on Mixin Network
-  headquartered in Dubai, founded in Nov, 2021 by Thorb.
+  MixPay is a crypto payment service provider based on Mixin Network, founded in
+  Nov, 2021.
 ---
 
 # Company
