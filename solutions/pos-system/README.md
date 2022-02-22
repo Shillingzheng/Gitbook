@@ -35,9 +35,9 @@ It might take a while before POS ready to be released. If you wish to be the fir
 * Flexible-set up to receive any crypto donations/fiats you prefer.
 * Reach a [wider donors base](https://app.gitbook.com/s/DEi4HKufWDwkRvDViUEi/\~/changes/JARmAnbwCPiR9bwdyf1G/solutions/donations/why-donate-with-crypto).&#x20;
 * Easy installation with a simple [donation link](https://mixpay.me/MixPayGuide/donate) .
-* No third parties, [MixPay](../about-us/more-about-mixpay.md) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) payment service with automated exchange for fiat.&#x20;
+* No third parties, [MixPay](../../about-us/more-about-mixpay.md) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) payment service with automated exchange for fiat.&#x20;
 
-[MixPay](../about-us/more-about-mixpay.md) payment gateway provides the following benefits:
+[MixPay](../../about-us/more-about-mixpay.md) payment gateway provides the following benefits:
 
 \
 
