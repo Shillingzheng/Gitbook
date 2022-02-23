@@ -4,6 +4,14 @@ description: Best price, decentralized, integratable any-to-any token conversion
 
 # Swap
 
+**what is swap**
+
+**why swap**
+
+**how to swap**
+
+**why swap via MixPay**
+
 ****
 
 How to transfer crypto from your exchange account to Arbitrum, Optimism or zkSync networks?
