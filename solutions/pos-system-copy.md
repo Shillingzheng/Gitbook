@@ -20,7 +20,11 @@ In short, it is the point when the customer makes the payment in a physical stor
 
 With the MixPay crypto Point-of-Sale system, your customers will be able to pay with cryptocurrency when buying from your offline store.
 
-The Point-of-Sale gateway requires only two steps. The first one is entering the sum that your client needs to pay in the fiat currency of your choice. The second step is the auto-generation of the QR code.
+The Point-of-Sale gateway requires only two steps below.&#x20;
+
+Step 1: Enter the sum that your client needs to pay in the fiat currency of your choice.&#x20;
+
+Step 2: Get the auto-generation of the QR code.
 
 Your client can scan the QR code using their phone and pay the sum which you specified earlier with the help of their mobile or desktop crypto wallet. **Regardless of what crypto your clients pay with, you can receive the fiat currency that you have chosen - MixPay converts them automatically.**
 
