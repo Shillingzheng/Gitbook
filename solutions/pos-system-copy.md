@@ -26,7 +26,7 @@ Step 1: Enter the sum that your client needs to pay in the fiat currency of your
 
 Step 2: Get the auto-generation of the QR code.
 
-Your client can scan the QR code using their phone and pay the sum which you specified earlier with the help of their mobile or desktop crypto wallet. **Regardless of what crypto your clients pay with, you can receive the fiat currency that you have chosen - MixPay converts them automatically.**
+Your clients can scan the QR code using their phone and pay the sum which you specified earlier with the help of their mobile or desktop crypto wallet. **Regardless of what crypto your clients pay with, you can receive the fiat currency that you have chosen - MixPay converts them automatically.**
 
 Point-of-sale systems offer a lot of benefits, such as quick payments, simple invoicing and the ability to manage your transactions. When the connection with MixPay is completed successfully, your POS can accept crypto with any device, any browser. It will offer your customers an easy way to spend their crypto in your offline store with lots of [benefits](pos-system/mixpays-pos-benefits.md).
 
