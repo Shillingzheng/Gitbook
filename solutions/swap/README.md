@@ -10,7 +10,7 @@ In cryptocurrency, swapping refers to exchanging one coin or token for another. 
 
 ![](https://s2.loli.net/2022/02/24/7QxpEgHq4JGBCLz.png)
 
-MixPay is the leading [cryptocurrency exchange](what-are-cryptocurrency-exchanges.md) providing the ability to instantly and seamlessly exchange100+ digital assets at the best market rate and with zero fees.
+[MixPay](../../about-us/more-about-mixpay.md) is the leading [cryptocurrency exchange](what-are-cryptocurrency-exchanges.md) providing the ability to instantly and seamlessly exchange100+ digital assets at the best market rate and with zero fees.
 
 We offer you an intuitive interface, the best exchange rates and secure transactions. We aspire to establish mutual trust with our clients; thereof we don’t have any hidden or unreasonable fees. We open you the swapping solution without any limitations or additional fees.
 
