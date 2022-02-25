@@ -44,4 +44,4 @@ Funds are deposited into your MixPay account.Notifications are sent to both you 
 
 Get started accepting crypto payments by following along in our Step-by-Step [Guide](https://developers.mixpay.me/docs/introduction) with native integration into your platform or a neat widget: Fee-free, custody-free, worry-free!
 
-Contact us at **public@mixpay.me**
+Contact us at **bmixpay.me**
