@@ -14,7 +14,7 @@ In cryptocurrency, swapping refers to exchanging one coin or token for another. 
 
 We offer you an intuitive interface, the best exchange rates and secure transactions. We aspire to establish mutual trust with our clients; thereof we don’t have any hidden or unreasonable fees. We open you the swapping solution without any limitations or additional fees.
 
-![Lark20220225-154445.png](https://s2.loli.net/2022/02/25/2IiC9QNjBLGDtJd.png)
+![](https://s2.loli.net/2022/02/25/2IiC9QNjBLGDtJd.png)
 
 Our platform can offer you competitive rates, low fees, the highest security standards, 24/7 support, [and more](why-to-swap-via-mixpay.md)! You can choose to swap your crypto at [fixed](https://www.investopedia.com/terms/f/fixedinterestrate.asp) or [floating rates](https://www.investopedia.com/terms/f/floatinginterestrate.asp).&#x20;
 
