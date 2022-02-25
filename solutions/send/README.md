@@ -65,4 +65,4 @@ You can choose any crypto you want to send. You can also add an optional note to
 
 （MixPay picture）
 
-**More questions, contact us at public@mixpay.me**
+**More questions, contact us at** [**bd@mixpay.me**](mailto:bd@mixpay.me)

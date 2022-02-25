@@ -46,4 +46,4 @@ You can also set up Quote currency, Amount, Receiving currency by Receive settin
 
 ![](https://s2.loli.net/2022/02/14/W3YLHE6KhgD8ItO.png)
 
-**Click here to download more materials（link), any questions, contact us at public@mixpay.me**!&#x20;
+**Click here to download more materials（link), any questions, contact us at**    [**bd@mixpay.me**](mailto:bd@mixpay.me)!&#x20;

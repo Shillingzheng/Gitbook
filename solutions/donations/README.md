@@ -67,4 +67,4 @@ Copy the link and place it anywhere you like!
 
 Get started accepting crypto donation with MixPay（website  link）!
 
-Contact us at **public@mixpay.me**
+Contact us at [**bd@mixpay.me**](mailto:bd@mixpay.me)

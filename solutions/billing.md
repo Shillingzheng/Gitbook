@@ -60,4 +60,4 @@ Share it via the link or send through our email service.Your customer pays the M
 
 ![](https://s2.loli.net/2022/02/16/obHqSxTDy3tLlXh.png)
 
-**More questions, contact us at public@mixpay.me**
+**More questions, contact us at** [**bd@mixpay.me**](mailto:bd@mixpay.me)

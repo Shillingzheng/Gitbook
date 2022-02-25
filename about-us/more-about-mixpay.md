@@ -12,4 +12,4 @@ MixPay is a non-custodial payment gateway, which means that all your payments wi
 
 MixPay accepts Bitcoin, Litecoin, Ethereum, stablecoins, and many more cryptocurrencies with native integration into your platform or a neat widget: _**Fee-free, custody-free, worry-free!**_
 
-Contact us at bd@mixpay.me
+Contact us at [**bd@mixpay.me**](mailto:bd@mixpay.me)

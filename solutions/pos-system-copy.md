@@ -36,6 +36,6 @@ Point-of-sale systems offer a lot of benefits, such as quick payments, simple in
 
 What you need to do is to follow the detailed guide document(**Open soooooon!**)
 
-It might take a while before POS is ready to be released. If you wish to be the first one to hear about the launch, contact us at [public@mixpay.me](mailto:public@mixpay.me)
+It might take a while before POS is ready to be released. If you wish to be the first one to hear about the launch, contact us at [**bd@mixpay.me**](mailto:bd@mixpay.me)
 
 ##
