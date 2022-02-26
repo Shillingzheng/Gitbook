@@ -13,7 +13,7 @@ It's easy to use MixPay, here are the steps how to use MixPay:
     &#x20;               ![021801.png](https://s2.loli.net/2022/02/18/BUZDmcIRiqQdXsE.png)****
 2. **Add MixPay bot**
 
-Search bot ID (7000104220) in Mixin, add bot. Then you can use MixPay.
+Search for bot ID (7000104220) in Mixin, add bot. Then you can use MixPay.
 
 ****
 
