@@ -21,7 +21,7 @@ Search bot ID (7000104220) in Mixin, add bot. Then you can use MixPay.
 
 3\. **Receive payments**
 
-Go to: "**1. recieve- 2. recieve settings-3.confirm**'', you can set up to recieve any cryptos/fiats you want.
+Go to: "**1. recieve- 2. recieve settings-3.confirm**'', you can set up to recieve any crypto/fiats you want.
 
 ![](https://s2.loli.net/2022/02/18/3pyRILwh8WznXO4.png)
 
