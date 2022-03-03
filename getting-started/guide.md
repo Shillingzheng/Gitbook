@@ -1,45 +1,43 @@
 ---
-description: Usage guide.
+description: MixPay usage guide.
 ---
 
 # Guide
 
-It's easy to use MixPay, here are the steps how to use MixPay:
+It's easy to use MixPay, here are the steps how to use MixPay.
 
 1.  **Download** [**Mixin Messenger**](https://mixin.one/messenger).
 
-    Download the Mixin Messenger App from the Google Play Store or the Apple App Store. Then, sign into your Mixin account via the App ( You only need to do this once when setting up the App).
+Download the Mixin Messenger from the Google Play or the App Store. Then, register account using your mobile with app. You only need to do this once when prepared your account.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/slrlxta.png)
 
 2. **Add MixPay bot**
 
-Search for bot ID (7000104220) in Mixin, add bot. Then you can use MixPay.
-
-****
+Search for bot ID (7000104220) in Mixin Messenger, and add this bot as contact. Then you can use MixPay.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/lfhxpzl.png)
 
 3. **Receive payments**
 
-Go to: "**1. recieve- 2. recieve settings-3.confirm**'', you can set up to recieve any crypto/fiats you want.
+Go to: "**1.Recieve - 2.Recieve settings - 3.Confirm**", you can set your preferred cryptocurrency or fiat currency.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/ruiekqi.png)
 
-You can also set up My QR, recieve payments via link.
+You can also set up permanent QR Code, recieve payments via link.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/pqdcfom.png)
 
-**Withdraw crypto**
+4. **Withdraw crypto**
 
-Go to: "**1.withdraw-2.cryptos-3. Amount-4.confirm**'', you can choose crypto you want to wallet.
+Go to: "**1. Withdraw - 2.Cryptos - 3.Amount - 4.Confirm**", you can choose the cryptocurrency you want.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/vripnzq.png)
 
-_**Withdraw fiat**_:
+5. _**Withdraw fiat**
 
-Go to: "**1.withdraw-2.fiats -3.Amount-4.confirm**'', you can choose fiat you want to wallet.
+Go to: "**1.Withdraw - 2.Fiats - 3.Amount - 4.Confirm**", you can choose the fiat currency you want.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/spsylof.png)
 
-These two steps are the base settings. Once you’ve completed them, you can start your MixPay  right away. If any questions, you can  simply contact bot (7000104220).
+These steps are the basic settings. Once you’ve completed them, you can start using your MixPay right now. If you have any questions, you can simply leave mesage in the MixPay bot (7000104220).
