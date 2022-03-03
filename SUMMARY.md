@@ -11,9 +11,9 @@
 
 ## Products
 
-* [For Nonprofits](products/for-nonprofits.md)
-* [For Business](products/for-business.md)
 * [For Individual](products/for-individual.md)
+* [For Business](products/for-business.md)
+* [For Nonprofits](products/for-nonprofits.md)
 
 ## Solutions
 
@@ -57,3 +57,6 @@
 
 * [Twitter](https://twitter.com/MixPayHQ)
 * [Discord](https://discord.gg/AtJr6ycfEy)
+* [GitHub](https://github.com/MixPayHQ)
+* [Medium](https://medium.com/@MixPayHQ)
+* [Mirror](https://mirror.xyz/mixpayme.eth)
