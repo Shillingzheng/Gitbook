@@ -1,8 +1,8 @@
 ---
-description: abundant, growing coins
+description: We support 100+ cryptocurrencies and growing.
 ---
 
-# Supported Coins
+# Supported Cryptos
 
 Send and receive over 100,000 cryptocurrencies via MixPay. Accept Bitcoin payments, Ethereum payments and other crypto payments through the MixPay payment gateway.
 
