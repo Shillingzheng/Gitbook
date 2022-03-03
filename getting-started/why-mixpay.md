@@ -6,13 +6,9 @@ description: >-
 
 # Why MixPay
 
-We make it easy for you to send/recieve crypto.
+We make it easy for you to send or receive crypto.
 
-* Use any cryptocurrencies. MixPay allows you to make payments with any cryptocurrencies and major tokens. Our flexible payment solution lets you decide which digital assets to pay/recieve with.
-* Faster, easier payments. Making a crypto payment is now as easy as scanning a QR code. We've made the transaction process faster by cutting out expensive and complicated third parties. It's totally free for payees and near instant transactions.
-*   Work with any wallets.MixPay accepts any wallets so you can make payments with yours.
-
-    Here are some of the leading wallets and exchanges Mixpay Supports. We think they are awesome and believe you will do.          &#x20;
-
-![](https://s2.loli.net/2022/01/13/bIXP3SuBYLCNJDK.jpg)
+* Use multiple cryptocurrencies. MixPay allows you to make payments with multiple cryptocurrencies. Our flexible payment solution lets you decide which cryptocurrency to pay or receive with.
+* Faster, easier payments. Making a crypto payment is now as easy as scanning a QR code. MixPay is based on the Mixin Network, a real-time payment experience, and no gas fees.
+* Work with any on-chain wallets. MixPay supports any on-chain wallets so you are free to choose. Here are some of the leading wallets Mixpay supports. We think they are awesome and believe you can work with it.
 
