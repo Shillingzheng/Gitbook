@@ -5,7 +5,7 @@
 * [Overview](README.md)
 * [Features](getting-started/features.md)
 * [Why MixPay](getting-started/why-mixpay.md)
-* [Supported Coins](getting-started/supported-coins.md)
+* [Supported Cryptos](getting-started/supported-cryptos.md)
 * [Guide](getting-started/guide.md)
 * [Fees](getting-started/fees.md)
 
