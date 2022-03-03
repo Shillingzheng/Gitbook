@@ -1,5 +1,5 @@
 ---
-description: 220,000,000+ people use cryptocurrency today. And half of millennials prefer cryptocurrency investing over stocks.
+description: A donation is a gift for charity, humanitarian aid, or to benefit a cause. Use MixPay to donate and get the money to where it's needed.
 ---
 
 # For Nonprofits
