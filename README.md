@@ -1,6 +1,6 @@
 ---
 description: >-
-  MixPay supports more than 100 cryptocurrencies and there is no Gas fee to pay
+  MixPay supports more than 100 cryptocurrencies and there is no gas fee to pay
   with Mixin Messenger.
 ---
 
