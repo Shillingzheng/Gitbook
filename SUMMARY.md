@@ -9,7 +9,7 @@
 * [Guide](getting-started/guide.md)
 * [Fees](getting-started/fees.md)
 
-## MixPay's Products
+## Products
 
 * [For Nonprofits](mixpays-products/for-nonprofits.md)
 * [For Business](mixpays-products/for-business.md)
