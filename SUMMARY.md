@@ -11,9 +11,9 @@
 
 ## Products
 
-* [For Nonprofits](mixpays-products/for-nonprofits.md)
-* [For Business](mixpays-products/for-business.md)
-* [For Individual](mixpays-products/for-individual.md)
+* [For Nonprofits](products/for-nonprofits.md)
+* [For Business](products/for-business.md)
+* [For Individual](products/for-individual.md)
 
 ## Solutions
 
