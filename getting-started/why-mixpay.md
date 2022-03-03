@@ -1,6 +1,6 @@
 ---
 description: >-
-  We support all crypto wallets, 40+ blockchains, 100+ cryptocurrencies and
+  We support all crypto wallets, 10+ blockchains, 20+ cryptocurrencies and
   growing.
 ---
 
