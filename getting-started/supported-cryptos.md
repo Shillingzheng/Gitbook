@@ -14,7 +14,7 @@ We always work on bringing new tokens to the network. Most importantly, we liste
 
 **Stablecoin**
 
-![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/uyixdoa.png)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/mqhyekd.png)
 
 **Other**
 
