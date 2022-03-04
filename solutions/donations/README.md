@@ -23,25 +23,25 @@ Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bl
 * Integrable - Provide flexible developer APIs to meet various needs.
 * Easy installation with a simple [donation link](https://mixpay.me/MixPayGuide/donate).
 
-**How to receive crypto donations online**
+#### How to receive crypto donations online
 
 [MixPay](../../about-us/more-about-mixpay.md) provides a payment platform that allows both nonprofits and bloggers to accept crypto donations.
 
 Sign up and get ready for the easiest and cheapest way to accept cryptocurrency donations.
 
-1. Sign up
+**Sign up**
 
 Download the [Mixin Messenger](https://mixin.one/messenger) from the Google Play or the App Store. Then, register account using your mobile with app. You only need to do this once when prepared your account.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/slrlxta.png)
 
-2. Add MixPay bot
+**Add MixPay bot**
 
 Search for bot ID (7000104220) in Mixin Messenger, and add this bot as contact. Then you can use MixPay.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/lfhxpzl.png)
 
-3. Create your Donation link
+**Create your donation link**
 
 Open `MixPay -> Click Recieve -> Set up My QR`.
 
@@ -55,7 +55,7 @@ Complete the settings, Quote currency, Recieve currency, create your own customi
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/uxyexxf.png)
 
-Copy the link and place it anywhere you like!
+Copy the link and place it anywhere you like.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/jdtiyyt.png)
 
