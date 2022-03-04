@@ -23,7 +23,7 @@ Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bl
 * Integrable - Provide flexible developer APIs to meet various needs.
 * Easy installation with a simple [donation link](https://mixpay.me/MixPayGuide/donate).
 
-#### How to receive crypto donations online
+### How to receive crypto donations online
 
 [MixPay](../../about-us/more-about-mixpay.md) provides a payment platform that allows both nonprofits and bloggers to accept crypto donations.
 
