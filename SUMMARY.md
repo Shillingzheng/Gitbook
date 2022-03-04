@@ -19,7 +19,7 @@
 
 * [Online payment](solutions/online-payment/README.md)
   * [Example for Shopify](solutions/online-payment/example-for-shopify.md)
-  * [Shopify& Cryptocurrencies](solutions/online-payment/shopify-and-cryptocurrencies.md)
+  * [Shopify and Cryptocurrencies](solutions/online-payment/shopify-and-cryptocurrencies.md)
 * [Donations](solutions/donations/README.md)
   * [Why donate with crypto](solutions/donations/why-donate-with-crypto.md)
 * [Offline payment](solutions/offline-payment/README.md)
