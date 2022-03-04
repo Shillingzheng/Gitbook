@@ -10,7 +10,7 @@ MixPay offers a variety of ways to accept crypto payments from your customers. G
 
 #### **API integration guide**
 
-To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment gateway, which lets you receive any cryptocurrencies as payment at your store.
+To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment platform, which lets you receive any cryptocurrencies as payment at your store.
 
 [Click here](https://developers.mixpay.me/docs/started/getting\_started)
 
