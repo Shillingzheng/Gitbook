@@ -6,5 +6,4 @@ description: 220,000,000+ people use cryptocurrency today. And half of millennia
 
 #### Fees
 
-Refer [fees](getting-started/fees.md)
-
+Refer [fees](fees.md)
