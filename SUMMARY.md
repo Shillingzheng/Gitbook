@@ -11,8 +11,8 @@
 
 ## Products
 
-* [For Individual](products/for-individual.md)
 * [For Business](products/for-business.md)
+* [For Individual](products/for-individual.md)
 * [For Nonprofits](products/for-nonprofits.md)
 
 ## Solutions
