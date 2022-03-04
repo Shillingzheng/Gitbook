@@ -20,11 +20,11 @@ To help you out, we have created a simple and free step-by-step guide to help ge
 
 MixPay also supports fiat conversion and provides merchants with a variety of tools including API, invoices, donation widget, buttons, as well as plugins for Shopify, Magento etc. See the example for Shopify.
 
-**Integration**
+#### Integration
 
 **Shopping cart plugins**
 
-Our prebuilt plugins for all the major ecommerce platforms will get your store set up with MixPay in minutes. Download the appropriate plugin, edit settings to complete the integration. [Example for Shopify](example-for-shopify.md):
+Our prebuilt plugins for all the major ecommerce platforms will get your store set up with MixPay in minutes. Download the appropriate plugin, edit settings to complete the integration. [Example for Shopify](example-for-shopify.md).
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/atqosds.png)
 

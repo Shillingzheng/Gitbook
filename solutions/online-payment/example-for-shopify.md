@@ -8,29 +8,26 @@
 
 **Installation Process**
 
-1. Go to your Shopify “Apps”, click “Manage Apps” and “Create a Private App”.
-2. Enter the App name and the developer's email.
-3. In “Admin API permissions”, give a “Read and Write” permission to Orders and click “Save”.
-4. Click “Create” and Copy the Example URL from the Admin API section.
-5. Go to your [Mixin Messenger](https://mixin.one/messenger) Account > Account Settings > Shopify and and paste the Example URL from Shopify.
-6. Click “Connect to Shopify”.
-7. Copy the “Additional script".
-8. Go to your Shopify Settings > Checkout > Order processing > Additional Scripts and paste the script (including the opening and closing tag script ). Click “Save”.
-9. Go to Shopify Settings > Payment Providers > Manual Payment Methods. Add a Custom payment method called “Pay in crypto with MixPay” and Activate it“.
+1. Go to your Shopify `Apps`, click `Manage Apps` and `Create a Private App`.
+2. Enter the App name and the email of developer.
+3. In `Admin API permissions`, give a `Read and Write` permission to orders and click `Save`.
+4. Click `Create` and copy the example url from the admin api section.
+5. Go to your [Mixin Messenger](https://mixin.one/messenger) `Account, Account Settings, Shopify` and and paste the example url from Shopify.
+6. Click `Connect to Shopify`.
+7. Copy the `Additional script`.
+8. Go to your `Shopify Settings > Checkout > Order processing > Additional Scripts` and paste the script (including the opening and closing tag script). Click `Save`.
+9. Go to `Shopify Settings > Payment Providers > Manual Payment Methods`. Add a Custom payment method called `Pay in crypto with MixPay` and activate it.
 
-_**Benefits of the Shopify Plugin**_&#x20;
+**Benefits of the Shopify Plugin**
 
-The benefits of cryptocurrency payments include: global reach, low fees, privacy and security. MixPay is a decentralized payment service, which means we don’t hold your funds, but transfer them directly to your wallet.&#x20;
+The benefits of cryptocurrency payments include: global reach, low fees, privacy and security. MixPay is a decentralized payment service, which means we don't escrow your funds, and transfer them directly to your wallet.
 
-Our Shopify payment gateway provides the following benefits:
+Our Shopify payment integration provides the following benefits:
 
-* Global-Accept payment from anywhere in the world.&#x20;
-* Fast-near instant transactions in less than 1s.&#x20;
-* Secure - All assets are stored in PoS-BFT-DAG distributed network.&#x20;
-* Free - No transaction fee via [Mixin Messenger](https://mixin.one/messenger) APP.&#x20;
-* Powerful - Support 40 public chains, 100+cryptocurrencies（Website link） and growing.&#x20;
-* Flexible-Set up to receive any cryptos/fiats you prefer.&#x20;
-* Reach a wider customer base.&#x20;
-* Easy installation of the Shopify payment processing.&#x20;
-* Keep up with the technological advancements.&#x20;
-* No third parties, MixPay is a [decentralized](https://www.investopedia.com/terms/b/blockchain.asp#toc-blockchain-decentralization) payment service.
+* Global - Accept payment from anywhere in the world.
+* Fast - Lightning fast experience.
+* Secure - All assets are stored in a secure [Mixin Network](https://mixin.one/snapshots).
+* Free - Zero gas fee via [Mixin Messenger](https://mixin.one/messenger).
+* Powerful - Support 10+ blockchains, 20+ cryptocurrencies and growing.
+* Flexible - Set your preferred cryptocurrency or fiat currency for settlement.
+* Integrable - Provide flexible developer APIs to meet various needs.
