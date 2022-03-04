@@ -22,8 +22,6 @@ Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bl
 * Flexible-set up to receive any crypto donations/fiats you prefer.
 * Easy installation with a simple [donation link](https://mixpay.me/MixPayGuide/donate) .
 
-    ****
-
 **How to Receive Crypto Donations Online?**
 
 [MixPay](../../about-us/more-about-mixpay.md) provides a payment gateway that allows both nonprofits and bloggers to accept crypto donations.
@@ -35,7 +33,6 @@ Sign up and get ready for the easiest and cheapest way to accept cryptocurrency 
 Download the [Mixin Messenger](https://mixin.one/messenger) from the Google Play or the App Store. Then, register account using your mobile with app. You only need to do this once when prepared your account.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/slrlxta.png)
-
 
 2. Add MixPay bot
 
