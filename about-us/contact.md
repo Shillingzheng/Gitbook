@@ -3,11 +3,11 @@
 ### Support
 
 * **Wallet Issues**
-  * I have a problem in my wallet such as a withdrawal, deposit, or transfer.
+  I have a problem in my wallet such as a withdrawal, deposit, or transfer.
 * **As a Buyer**
-  * Problems with an order you made through Mixin Messenger or other on-chain wallet.
+  Problems with an order you made through Mixin Messenger or other on-chain wallet.
 * **As a Merchant**
-  * Problems with integration with API or other questions.
+  Problems with integration with API or other questions.
 
 ### Contact
 

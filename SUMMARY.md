@@ -51,7 +51,6 @@
 
 * [Contact](about-us/contact.md)
 * [Company](about-us/company.md)
-* [More About MixPay](about-us/more-about-mixpay.md)
 
 ## Social
 
