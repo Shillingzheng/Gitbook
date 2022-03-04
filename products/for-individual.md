@@ -16,4 +16,4 @@ Of course, you can also put the receipt link to other social platforms such as T
 
 #### Fees
 
-Refer [fees](fees.md)
+Refer [fees](../getting-started/fees.md)
