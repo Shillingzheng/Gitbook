@@ -6,25 +6,26 @@ description: A donation is a gift for charity, humanitarian aid, or to benefit a
 
 The donation link is a link you can place to accept crypto donations. Put it on your social media and anyone will be able to donate .
 
-Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bloggers](https://www.blogtyrant.com/what-does-a-blogger-do/) who want to figure out how they are going to accept crypto donations.It’s more important to have a way to get the donations. All they need to do is just to place the donation link on their page. After the visitors click the link, a page will appear where they can confirm the donation.
+Well, [MixPay](../../about-us/more-about-mixpay.md) is also very helpful for [bloggers](https://www.blogtyrant.com/what-does-a-blogger-do/) who want to figure out how they are going to accept crypto donations. It’s more important to have a way to get the donations. All they need to do is just to place the donation link on their page. After the visitors click the link, a page will appear where they can confirm the donation.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/wvflgch.png)
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/nzebspx.png)
 
-[MixPay](../../about-us/more-about-mixpay.md)’s automated donation acceptance and exchange process provides full [transparency](https://www.investopedia.com/terms/b/blockchain.asp#toc-transparency) into every crypto-donation and every donor who gives. [MixPay ](../../about-us/more-about-mixpay.md)is a perfect crypto payment for charitable donations.
+[MixPay](../../about-us/more-about-mixpay.md) automated donation acceptance and exchange process provides full [transparency](https://www.investopedia.com/terms/b/blockchain.asp#toc-transparency) into every crypto-donation and every donor who gives. [MixPay ](../../about-us/more-about-mixpay.md)is a perfect crypto payment for charitable donations.
 
-[MixPay](../../about-us/more-about-mixpay.md) payment gateway provides the following benefits:
+[MixPay](../../about-us/more-about-mixpay.md) payment platform provides the following benefits:
 
-* Fast-near instant transactions in less than 1s.
-* Free - no transaction fee via [Mixin Messenger APP](https://mixin.one/messenger).
-* Powerful - support 40 public chains, 100+cryptocurrencies（website link） and growing.
-* Flexible-set up to receive any crypto donations/fiats you prefer.
-* Easy installation with a simple [donation link](https://mixpay.me/MixPayGuide/donate) .
+* Fast - Lightning fast experience.
+* Free - Zero gas [fee](fees.md) via [Mixin Messenger](https://mixin.one/messenger).
+* Powerful - Powerful - Support 10+ blockchains, 20+ cryptocurrencies and growing.
+* Flexible - Set your preferred cryptocurrency or fiat currency for settlement.
+* Integrable - Provide flexible developer APIs to meet various needs.
+* Easy installation with a simple [donation link](https://mixpay.me/MixPayGuide/donate).
 
-**How to Receive Crypto Donations Online?**
+**How to receive crypto donations online**
 
-[MixPay](../../about-us/more-about-mixpay.md) provides a payment gateway that allows both nonprofits and bloggers to accept crypto donations.
+[MixPay](../../about-us/more-about-mixpay.md) provides a payment platform that allows both nonprofits and bloggers to accept crypto donations.
 
 Sign up and get ready for the easiest and cheapest way to accept cryptocurrency donations.
 

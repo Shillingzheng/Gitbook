@@ -5,6 +5,7 @@ description: "MixPay\_is the easiest way to accept online or offline payments in
 # Features
 
 * [x] Global - Accept payment from anywhere in the world.
+* [x] Fast - Lightning fast experience.
 * [x] Secure - All assets are stored in a secure [Mixin Network](https://mixin.one/snapshots).
 * [x] Free - Zero gas [fee](fees.md) via [Mixin Messenger](https://mixin.one/messenger).
 * [x] Powerful - Support 10+ blockchains, 20+ cryptocurrencies and growing.
