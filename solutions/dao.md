@@ -1,6 +1,6 @@
 # DAO
 
-Soooooon!
+Soooooon.
 
 Can you imagine a way of organizing with other people around the world, without knowing each other and establishing your own rules, and making your own decisions autonomously all encoded on a Blockchain? Well, DAOs are making this real.
 

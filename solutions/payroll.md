@@ -1,7 +1,7 @@
 ---
-description: Mass Payments in crypto-done easily.
+description: Payroll is also very easy with MixPay.
 ---
 
 # Payroll
 
-Soooooon!
+Soooooon.
