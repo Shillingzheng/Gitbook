@@ -10,12 +10,12 @@ We always work on bringing new tokens to the network. Most importantly, we liste
 
 **Popular**
 
-![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/geggkfg.png)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/jjwkmgt.png)
 
 **Stablecoin**
 
-![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/mqhyekd.png)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/drisrur.png)
 
 **Other**
 
-![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/vgbsxyg.png)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/igtzglu.png)
