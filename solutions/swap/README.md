@@ -6,7 +6,7 @@ description: Best price, decentralized, integratable any-to-any token conversion
 
 In cryptocurrency, swapping refers to exchanging one coin or token for another. Sounds simple, but when you have over 1,500 different types of cryptos, things can get a little clunky.
 
-[Crypto swapping](why-to-swap.md) is a more seamless process that allows you to acquire the coin you want instantly. MixPay is a major exchange platform that will have this option available to its users to make trading as convenient as possible.&#x20;
+[Crypto swapping](why-to-swap.md) is a more seamless process that allows you to acquire the coin you want instantly. MixPay is a major exchange platform that will have this option available to its users to make trading as convenient as possible.
 
 ![Cryptocurrency Exchange](https://s2.loli.net/2022/02/24/7QxpEgHq4JGBCLz.png)
 
@@ -18,10 +18,8 @@ Whether you're a business owner, a crypto user, or even a developer, you're able
 
 While, for [developers](https://en.wikipedia.org/wiki/Developer):
 
-Your service can also exchange crypto when the connection with MixPay is completed successfully.  It will offer your customers an easy way to swap their crypto on your platform with lots of [benefits](why-to-swap-via-mixpay.md). What you need to do is to follow the detailed API document(**Open soooooon!**). With our API ,you can provide your clients with seamless crypto exchanges. Your audiences can swap at competitive rates, low fees, the highest security standards, 24/7 support, [and more](why-to-swap-via-mixpay.md)!&#x20;
+Your service can also exchange crypto when the connection with MixPay is completed successfully.  It will offer your customers an easy way to swap their crypto on your platform with lots of [benefits](why-to-swap-via-mixpay.md). What you need to do is to follow the detailed API document(**Open soooooon!**). With our API ,you can provide your clients with seamless crypto exchanges. Your audiences can swap at competitive rates, low fees, the highest security standards, 24/7 support, [and more](why-to-swap-via-mixpay.md).
 
 ![](https://s2.loli.net/2022/02/25/2IiC9QNjBLGDtJd.png)
 
-MixPay provides you the safest most convenient way to buy and swap cryptocurrency. Join MixPay and exchange any crypto instantly! It might take a while before Swap is ready to be released. If you wish to be the first one to hear about the launch, contact us at [**bd@mixpay.me**](mailto:bd@mixpay.me)
-
-​
+MixPay provides you the safest most convenient way to buy and swap cryptocurrency. Join MixPay and exchange any crypto instantly! It might take a while before Swap is ready to be released. If you wish to be the first one to hear about the launch, contact us at [**bd@mixpay.me**](mailto:bd@mixpay.me).
