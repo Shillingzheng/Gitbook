@@ -10,4 +10,4 @@ _**MixPay**_ is a crypto payment service platform build on [Mixin Network](https
 
 _**MixPay**_ supports more than 20+ cryptocurrencies and all on-chain crypto wallets. Regardless of what crypto payers pay with, payees can choose to accept the cryptos they prefer, MixPay converts them automatically.
 
-_**MixPay**_ is the easiest way to accept cryptocurrency payments online or offline. Whether you're a business owner, or a crypto user, sign up and get started now.
+_**MixPay**_ is the easiest way to accept cryptocurrency payments online or offline. Whether you're a business owner, developer or a crypto user, sign up and get started now.
