@@ -1,5 +1,5 @@
 ---
-description: MixPay is a crypto payment service platform based on Mixin Network, founded in Nov, 2021.
+description: MixPay is a crypto payment service platform build on Mixin Network, founded in Nov, 2021.
 ---
 
 # Company
