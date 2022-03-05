@@ -1,3 +1,7 @@
+---
+description: Frequently answered question view here.
+---
+
 # FAQ
 
 **1. How do I create Mixin Messenger account?**

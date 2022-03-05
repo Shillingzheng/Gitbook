@@ -37,7 +37,7 @@
 
 ## Help
 
-* [FAQ](help/faq.md)
+* [FAQ](faq.md)
 
 ## About Us
 
