@@ -14,7 +14,7 @@ Acceptance, availability and widespread use of cryptocurrency have certainly cha
 
 Generally, a QR code is used to make Bitcoin payments when buying in retail stores. With MixPay, it’s easy and safe to do this. All you need to do is just to post the payment QR code on your store.
 
-![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/svuigri.png)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/usyxhmm.png)
 
 After the customers scan the QR code, a page will appear where they can confirm the payment. We provide payment instruments for every taste and occasion. In addition, MixPay is an extremely customer-oriented service and is always ready to provide customized solutions.
 
