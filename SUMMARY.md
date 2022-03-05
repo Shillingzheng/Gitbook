@@ -35,7 +35,7 @@
   * [Benefits](solutions/swap/benefits.md)
 * [Subscriptions](solutions/subscriptions.md)
 * [DAO](solutions/dao.md)
-* [Secured Transactions](solutions/secured-transactions.md)
+* [Guaranteed Transactions](solutions/guaranteed-transaction.md)
 * [Sell](solutions/sell.md)
 * [Payroll](solutions/payroll.md)
 
