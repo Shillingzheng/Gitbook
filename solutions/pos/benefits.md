@@ -1,14 +1,11 @@
-# POS Benefits
+# Benefits
 
+MixPay payment platform provides the following benefits.
 
-
-[MixPay](../../about-us/more-about-mixpay.md) payment gateway provides the following benefits:
-
-* Fast-near instant transactions in less than 1s.
-* Secure - all assets are stored in PoS-BFT-DAG distributed [network](https://mixin.one/snapshots).&#x20;
-* Free - no transaction fee via [Mixin Messenger APP](https://mixin.one/messenger).
-* Powerful - support 40 public chains, 100+cryptocurrencies（website link） and growing.
-* Flexible-set up to receive any crypto/fiats you prefer.
-* Easy installation with a simple guide .
-* No third parties, [MixPay](../../about-us/more-about-mixpay.md) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) payment service with automated exchange for fiat.&#x20;
-
+* Global - Accept payment from anywhere in the world.
+* Fast - Lightning fast experience.
+* Secure - All assets are stored in a secure [Mixin Network](https://mixin.one/snapshots).
+* Free - Zero gas [fee](fees.md) via [Mixin Messenger](https://mixin.one/messenger).
+* Powerful - Support 10+ blockchains, 20+ cryptocurrencies and growing.
+* Flexible - Set your preferred cryptocurrency or fiat currency for settlement.
+* Integrable - Provide flexible developer APIs to meet various needs.
