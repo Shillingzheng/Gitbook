@@ -11,4 +11,3 @@ description: "MixPay\_is the easiest way to accept online or offline payments in
 * [x] Powerful - Support 10+ blockchains, 20+ cryptocurrencies and growing.
 * [x] Flexible - Set your preferred cryptocurrency or fiat currency for settlement.
 * [x] Integrable - Provide flexible developer APIs to meet various needs.
-

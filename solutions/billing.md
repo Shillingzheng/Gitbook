@@ -1,5 +1,5 @@
 ---
-description: Accept cryptos from clients via any method like email, sms.
+description: Accept cryptos from clients via any method like email or sms.
 ---
 
 # Billing
@@ -16,15 +16,13 @@ The ability to immediately send one-time crypto invoices via email or link can b
 
 MixPay(website link) is a perfect crypto payment for crypto ebilling，which provides the following benefits:
 
-* Global-accept crypto payment from anywhere in the world.
-* Fast-near instant transactions in less than 1s.
-* Secure - all assets are stored in PoS-BFT-DAG distributed [network](https://mixin.one/snapshots).
-* Free - no transaction fee via [Mixin Messenger ](https://mixin.one/messenger)APP.
-* Powerful - support 40 public chains, 100+cryptocurrencies(website link) and growing.
-* Flexible-set up to receive any crypto coins/fiats you prefer.
-* Easy installation with a simple [QR link](https://sm.ms/image/obHqSxTDy3tLlXh) .
-* No third parties, MixPay is a [decentralized](https://www.investopedia.com/terms/b/blockchain.asp#toc-blockchain-decentralization) payment service
-* Automated Exchange for FIAT.
+* Global - Accept payment from anywhere in the world.
+* Fast - Lightning fast experience.
+* Secure - All assets are stored in a secure [Mixin Network](https://mixin.one/snapshots).
+* Free - Zero gas [fee](fees.md) via [Mixin Messenger](https://mixin.one/messenger).
+* Powerful - Support 10+ blockchains, 20+ cryptocurrencies and growing.
+* Flexible - Set your preferred cryptocurrency or fiat currency for settlement.
+* Integrable - Provide flexible developer APIs to meet various needs.
 
 All payment details, contacts, as well as paid and unpaid bills, can be tracked in [MixPay](../about-us/more-about-mixpay.md).
 
@@ -36,28 +34,28 @@ Whether businesses, non-profits or freelance workers now have an option to accep
 
 To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay(website link) payment gateway, which lets you receive any cryptocurrencies as payment at your store.&#x20;
 
-**1.Sign up**
+**1. Sign up**
 
-Creat your [Mixin Messenger](https://mixin.one/messenger) account.
+Download the [Mixin Messenger](https://mixin.one/messenger) from the Google Play or the App Store. Then, register account using your mobile with app. You only need to do this once when prepared your account.
 
-![](https://s2.loli.net/2022/02/10/odX85zb4s7QOugc.png)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/slrlxta.png)
 
-#### 2. Add MixPay bot
+**2. Add MixPay bot**
 
-Search bot ID (7000104220) in Mixin, add bot.
+Search for bot ID (7000104220) in Mixin Messenger, and add this bot as contact. Then you can use MixPay.
 
-![](https://s2.loli.net/2022/02/10/BPzMFi7cHJORjdT.png)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/lfhxpzl.png)
 
-#### 3. Send Bill
+**3. Send bill**
 
 Create a bill and send to your client.
 
-![](https://s2.loli.net/2022/02/16/nXBhR8iTDEZ7meG.png)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/xpdkrlg.png)
 
-#### 4. Payment
+**4. Payment**
 
-Share it via the link or send through our email service.Your customer pays the MixPay invoice via QR or link.
+Share it via the link or send through our email service. Your customer pays the MixPay invoice via QR code or link.
 
-![](https://s2.loli.net/2022/02/16/obHqSxTDy3tLlXh.png)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/nabbuba.png)
 
-**More questions, contact us at** [**bd@mixpay.me**](mailto:bd@mixpay.me)
+More questions, contact us at [bd@mixpay.me](mailto:bd@mixpay.me).
