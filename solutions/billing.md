@@ -10,11 +10,11 @@ MixPay is here to provide you the solution of receiving crypto payments with ema
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/nabbuba.png)
 
-As with all other payment integration tools, instant billing allows accepting payments in over 100+cryptocurrencies with a feature to convert revenue to other coins or fiats.
+As with all other payment integration tools, instant billing allows accepting payments in over 20+ cryptocurrencies with a feature to convert revenue to other cryptocurrencies or fiat currencies.
 
 The ability to immediately send one-time crypto invoices via email or link can be practical in many different cases.
 
-MixPay is a perfect crypto payment for crypto ebilling，which provides the following benefits:
+MixPay is a perfect crypto payment for crypto ebilling, which provides the following benefits.
 
 * Global - Accept payment from anywhere in the world.
 * Fast - Lightning fast experience.
@@ -28,7 +28,7 @@ All payment details, contacts, as well as paid and unpaid bills, can be tracked 
 
 So, instead of setting up a whole payment method for one or a few clients to pay with cryptos, generating bills to request the payment is a much more convenient approach to settle matters fast and without any inexplicable costs.
 
-Simply share a link or deliver the bill via email. Then it’s for you to decide whether you want to keep the coin as it is, convert it to fiat currency or other coins.
+Simply share a link or deliver the bill via email. Then it's for you to decide whether you want to keep the coin as it is, convert it to fiat currency or other cryptocurrencies.
 
 Whether businesses, non-profits or freelance workers now have an option to accept crypto payments via billing service. [Get started today](https://mixin.one/messenger).
 
