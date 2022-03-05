@@ -11,7 +11,7 @@ A crypto [Point-of-Sale](https://www.investopedia.com/terms/p/point-of-sale.asp)
 POS is generally a safe way of accepting cryptocurrencies for both the merchant and the client. It also lets the merchant fully customize their invoices and issue new ones for each client. That is why POS is an excellent option for small brick-and-mortar stores that do not need to process hundreds of payments per second. In fact, there are various companies enabling them globally, just like:
 
 * Food industry:
-  * [Burger King Venezuela](https://finance.yahoo.com/news/burger-king-accept-crypto-venezuela-193757581.html) accepts Bitcoin
+  * [Burger King Venezuela](https://finance.yahoo.com/news/burger-king-accept-crypto-venezuela-193757581.html)
   * [PizzaForCoins](https://pizzaforcoins.com)
 * Other:
   * [Cooperativa RadioTaxi](https://www.3570.it)
