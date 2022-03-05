@@ -32,7 +32,7 @@
 * [Subscriptions](solutions/subscriptions.md)
 * [DAO](solutions/dao.md)
 * [Guaranteed Transactions](solutions/guaranteed-transactions.md)
-* [Sell](solutions/sell.md)
+* [Fiats](solutions/faits.md)
 * [Payroll](solutions/payroll.md)
 
 ## Help
