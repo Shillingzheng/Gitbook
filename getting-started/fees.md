@@ -4,17 +4,17 @@ description: Zero gas fee with Mixin Messenger.
 
 # Fees
 
-#### Send
+### Send
 
 _Free_ using [Mixin Messenger](https://mixin.one/messenger).
 
 If you send cryptocurrency using on-chain wallet, you may pay the network fee based on the cryptocurrency you choose and the network busyness.
 
-#### Receive
+### Receive
 
 All for _Free_.
 
-#### Withdraw
+### Withdraw
 
 Free for cryptocurrency, 0.1% service fee for fiat currency.
 

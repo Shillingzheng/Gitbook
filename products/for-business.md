@@ -8,7 +8,7 @@ description: MixPay provides a powerful developer API that can be adapted to var
 
 MixPay offers a variety of ways to accept crypto payments from your customers. Get started setting up your MixPay account and accepting crypto payments by following along in our step-by-step Integration Guide.
 
-#### **API integration guide**
+### API integration guide
 
 To help you out, we have created a simple and free step-by-step guide to help getting your business all set up to start accepting cryptocurrency payments using the MixPay payment platform, which lets you receive any cryptocurrencies as payment at your store.
 
