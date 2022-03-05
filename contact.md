@@ -14,6 +14,5 @@
 
 ### Contact Us
 
-**Email:**[public@mixpay.me](mailto:public@mixpay.me)
-
-**Customer service:**Mixin ID40125551
+* **Email:** [public@mixpay.me](mailto:public@mixpay.me)
+* **Customer service:** Mixin ID `40125551`
