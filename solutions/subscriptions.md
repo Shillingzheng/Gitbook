@@ -6,23 +6,23 @@ description: Customers can be your memberships or subscribe your products automa
 
 Soooooon!
 
-With Subscriptions, customers make recurring payments for access to a product. Subscriptions require you to retain more information about your customers than one-time purchases do because you need to automatically charge them in the future.
+With subscriptions, customers make recurring payments for access to a product. Subscriptions require you to retain more information about your customers than one-time purchases do because you need to automatically charge them in the future.
 
-### How subscriptions work:
+### How subscriptions work
 
- _**Subscription objects**_
+**Subscription objects**
 
- Use the following core API objects to build and manage subscriptions:
+Use the following API objects to build and manage subscriptions:
 
 * Customers are your buyers. The Customer object stores information like names, email addresses, and payment methods (what kind of crypto to pay).
 * Products are what you sell. Prices represent how much and how often you charge for a product. You can define multiple prices for a product so you can charge different amounts based on currency or interval (daily, monthly, quarterly, yearly, or other customized intervals).
-* Subscriptions represent your Customers’ access to a product and require you to create a customer and payment method. The status of a subscription indicates when to provision access to your service for a customer.
-* MixPay generates Invoices when it’s time to bill a customer for a subscription. Invoices have line items and the total amount owed by a customer.
+* Subscriptions represent your customer access to a product and require you to create a customer and payment method. The status of a subscription indicates when to provision access to your service for a customer.
+* MixPay generates invoices when it's time to bill a customer for a subscription. Invoices have line items and the total amount owed by a customer.
 * Payment Intents represent the state of all attempts to pay an invoice.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/jojxbhk.png)
 
-#### _Subscription integration_
+#### Subscription integration
 
 **Landing page**
 
@@ -30,11 +30,11 @@ On the frontend, the landing page collects the email address first. Your applica
 
 **Pricing page**
 
-The pricing page displays the different subscription options based on the products and prices you create when you first set up your integration (you don’t need to create new ones every time customers sign up). Your pricing page displays the prices you created, and your customers choose the option they want.
+The pricing page displays the different subscription options based on the products and prices you create when you first set up your integration (you don't need to create new ones every time customers sign up). Your pricing page displays the prices you created, and your customers choose the option they want.
 
 **Payment**
 
-The payment form collects a name and other information. MixPay hosts this form if you use Checkout-it’s one of the key features that allows you to collect payments and remain PCI compliant. Clicking **Subscribe**:
+The payment form collects a name and other information. MixPay hosts this form if you use checkout, it’s one of the key features that allows you to collect payments and remain PCI compliant. Clicking subscribe:
 
 1. Creates a new subscription, with the customer and price IDs.
 2. Generates an invoice for the initial subscription cycle.
@@ -43,6 +43,6 @@ The payment form collects a name and other information. MixPay hosts this form i
 
 **Provisioning**
 
-A confirmation page displays after a successful payment. At this point it’s safe to provision the product for the customer. **This generally means**:
+A confirmation page displays after a successful payment. At this point it’s safe to provision the product for the customer. This generally means:
 
 _Verifying the status of the subscription is active. Granting the customer access to the products and features they subscribed to._
