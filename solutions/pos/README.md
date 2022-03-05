@@ -48,6 +48,6 @@ Customer side option 2:
 
 Of course, the specific payment process can be defined by yourself, the MixPay API can meet your needs.
 
-Point-of-sale systems offer a lot of benefits, such as quick payments, simple invoicing and the ability to manage your transactions. When the connection with MixPay is completed successfully, your POS can accept crypto with any device, any browser. It will offer your customers an easy way to spend their crypto in your offline store with lots of [benefits](pos/benefits.md).
+Point-of-sale systems offer a lot of benefits, such as quick payments, simple invoicing and the ability to manage your transactions. When the connection with MixPay is completed successfully, your POS can accept crypto with any device, any browser. It will offer your customers an easy way to spend their crypto in your offline store with lots of [benefits](../../getting-started/features.md).
 
 It might take a while before POS is ready to be released. If you wish to be the first one to hear about the launch, contact us at [bd@mixpay.me](mailto:bd@mixpay.me).

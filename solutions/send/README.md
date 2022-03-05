@@ -26,7 +26,7 @@ Secondly, it's easy. No account numbers, routing numbers or SWIFT codes are requ
 
 Security and privacy is another reason to send crypto using MixPay. There’s no need to share personal information when you make a transaction.
 
-Finally, you can send crypto for free, no matter where the sender or recipient is located. Click here to learn more about [advantages of MixPay](advantages-of-mixpay.md).
+Finally, you can send crypto for free, no matter where the sender or recipient is located. Click here to learn more about [advantages](../../getting-started/features.md) of MixPay.
 
 Also, you can check your transaction history in MixPay.
 
