@@ -4,7 +4,7 @@ description: MixPay is a crypto payment service platform based on Mixin Network,
 
 # Company
 
-## MixPay
+### MixPay
 
 We see a different future for payments. **MixPay** builds powerful, enterprise-grade tools for crypto acceptance and spending.
 
