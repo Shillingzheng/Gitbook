@@ -12,4 +12,4 @@ We make it easy for you to send or receive crypto.
 * Faster, easier payments. Making a crypto payment is now as easy as scanning a QR code. MixPay is based on the Mixin Network, a real-time payment experience, and no gas fees.
 * Work with any on-chain wallets. MixPay supports any on-chain wallets so you are free to choose. Here are some of the leading wallets and exchanges Mixpay supports. We think they are awesome and believe you can work with it.
 
-![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/wwdxnsn.jpg)
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/dkailiz.jpg)
