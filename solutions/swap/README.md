@@ -10,7 +10,7 @@ Crypto swapping is a more seamless process that allows you to acquire the coin y
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/nqjnsop.png)
 
-[MixPay](../../about-us/more-about-mixpay.md) is the leading cryptocurrency exchange providing the ability to instantly and seamlessly exchange100+ digital assets at the best market rate and with zero fees.
+MixPay is the leading cryptocurrency exchange providing the ability to instantly and seamlessly exchange100+ digital assets at the best market rate and with zero fees.
 
 We offer you an intuitive interface, the best exchange rates and secure transactions. We aspire to establish mutual trust with our clients; thereof we don’t have any hidden or unreasonable fees. We open you the swapping solution **without any limitations or additional fees**.
 
