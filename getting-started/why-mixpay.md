@@ -13,3 +13,5 @@ We make it easy for you to send or receive crypto.
 * Work with any on-chain wallets. MixPay supports any on-chain wallets so you are free to choose. Here are some of the leading wallets and exchanges Mixpay supports. We think they are awesome and believe you can work with it.
 
 ![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/dkailiz.png)
+
+![](https://raw.githubusercontent.com/mixpayme/mixpay-docs/master/images/xdeelqt.png)
