@@ -10,7 +10,7 @@ Additionally, many independent pubs, clubs, and bars are open to crypto payments
 
 **Travel Agency**
 
-Many online travel agencies like Travala adopted crypto payments a long time ago. Some of the famous brands include [airBaltic](hhttps://www.airbaltic.com/en-LV/index), [CheapAir.com](https://www.cheapair.com), Abitsky.com, and many others that have facilitated crypto payments.
+Many online travel agencies like Travala adopted crypto payments a long time ago. Some of the famous brands include [airBaltic](hhttps://www.airbaltic.com/en-LV/index), [CheapAir](https://www.cheapair.com) and many others that have facilitated crypto payments.
 
 Many local offline travel agencies have also welcomed crypto payments for customers who want to use their crypto investments the best way possible. You can book flights, buses, and even hotels with these travel agencies using Bitcoins and other popular cryptocurrencies. There are more and more travel agencies which accept crypto payments.
 
