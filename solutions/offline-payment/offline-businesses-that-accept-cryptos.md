@@ -28,7 +28,7 @@ Not all taxi services worldwide have started accepting Bitcoin payment. Still, i
 
 With a wide range of benefits offered in each educational course, the fees of institutions and universities are sky-high every year. It often becomes challenging to make big payments with cash. Hence, digital payments were introduced to make payments more manageable.
 
-Bitcoin was added as part of digital payment for education. It was the University of Nicosia that first accepted Bitcoin as payment（**website link**） for its Digital Currency course. After that, many mainstream universities in the world started accepting Bitcoin as their tuition fees. Students can now pay with Bitcoin for enrolling in a particular course.
+Bitcoin was added as part of digital payment for education. It was the University of Nicosia that first accepted Bitcoin as payment for its Digital Currency course. After that, many mainstream universities in the world started accepting Bitcoin as their tuition fees. Students can now pay with Bitcoin for enrolling in a particular course.
 
 The famous European School of Management and Technology in Berlin takes Bitcoin for all their management courses. In the coming years, the use of Bitcoin as tuition fees will only increase further, enhancing the reach of cryptocurrency as the ideal payment method.
 
