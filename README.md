@@ -12,4 +12,6 @@ _**MixPay**_ supports more than 20+ cryptocurrencies and all on-chain crypto wal
 
 _**MixPay**_ is very flexible because of its underlying ability to separate the three parts of quote, payment and settlement.
 
+_**MixPay**_ supports three modes of settlement, normal users, robots, and multi-signature groups. Normal users are also known as Mixin Messenger users, assets settled to robots are programmable, and assets settled to multi-signature groups can be easily managed by organizations or teams.
+
 _**MixPay**_ is the easiest way to accept cryptocurrency payments online or offline. Whether you're a business owner, developer or a crypto user, sign up and get started now.
