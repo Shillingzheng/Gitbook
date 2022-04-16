@@ -1,5 +1,5 @@
 ---
-description: "MixPay\_is the easiest way to accept online or offline payments in various cryptocurrencies."
+description: "MixPay is the easiest way to accept online or offline payments in various cryptocurrencies."
 ---
 
 # Features
@@ -8,6 +8,7 @@ description: "MixPay\_is the easiest way to accept online or offline payments in
 * [x] Fast - Lightning fast experience.
 * [x] Secure - All assets are stored in a secure [Mixin Network](https://mixin.one/snapshots).
 * [x] Free - Zero gas [fee](fees.md) via [Mixin Messenger](https://mixin.one/messenger).
-* [x] Powerful - Support 10+ blockchains, 20+ cryptocurrencies and growing.
-* [x] Flexible - Set your preferred cryptocurrency or fiat currency for settlement.
+* [x] Convenient - Support any cryptocurrency and any wallet.
+* [x] Powerful - Support three modes of settlement, normal users, robots, and multi-signature groups.
+* [x] Flexible - Separate quote, payment and settlement, and set your preferred cryptocurrency or fiat currency for this three parts.
 * [x] Integrable - Provide flexible developer APIs to meet various needs.
