@@ -14,15 +14,7 @@ As with all other payment integration tools, instant billing allows accepting pa
 
 The ability to immediately send one-time crypto invoices via email or link can be practical in many different cases.
 
-MixPay is a perfect crypto payment for crypto ebilling, which provides the following benefits.
-
-* Global - Accept payment from anywhere in the world.
-* Fast - Lightning fast experience.
-* Secure - All assets are stored in a secure [Mixin Network](https://mixin.one/snapshots).
-* Free - Zero gas [fee](fees.md) via [Mixin Messenger](https://mixin.one/messenger).
-* Powerful - Support 10+ blockchains, 20+ cryptocurrencies and growing.
-* Flexible - Set your preferred cryptocurrency or fiat currency for settlement.
-* Integrable - Provide flexible developer APIs to meet various needs.
+MixPay is a perfect crypto payment for crypto ebilling, which provides the following [benefits](getting-started/features.md).
 
 All payment details, contacts, as well as paid and unpaid bills, can be tracked in MixPay.
 
